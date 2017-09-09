@@ -46,7 +46,7 @@ import org.jsoup.nodes.Document;
 
 import java.util.ArrayList;
 
-public class HomeActivity extends AppCompatActivity implements EditPasswordDetailsFragment.EditPasswordListener, PasswordAdaptor.AdListener{
+public class HomeActivity extends AppCompatActivity implements EditPasswordDetailsFragment.EditPasswordListener, PasswordAdaptor.AdListener {
     private EditText mTitle, mUserName, mPassword, mOthers;
     private SQLiteDBUtil sqLiteDBUtil;
     private TextView edUserPin;
@@ -55,6 +55,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
     private PasswordAdaptor passwordAdaptor;
     private LinearLayout dialog;
     private FloatingActionButton myFab;
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -70,7 +71,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
         setTitle("");
     }
 
-    private void startWork(){
+    private void startWork() {
         if (isPinCreated()) {
             doStuff();
         } else {
@@ -89,7 +90,6 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
         mOthers = (EditText) dialog.findViewById(R.id.ed_other);
         tvToalPasswa = (TextView) dialog.findViewById(R.id.total_pass);
 
-        ((TextView) findViewById(R.id.tv_view_password)).setText(getString(R.string.create_pin));
         setFloatingActionButton();
     }
 
@@ -101,13 +101,14 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
     @Override
     protected void onResume() {
         super.onResume();
-            onFocusWork();
+        onFocusWork();
+        adMOb();
     }
 
-    private void onFocusWork(){
-        if(!isAdActive) {
+    private void onFocusWork() {
+        if (!isAdActive) {
             ShowPinPopUp(null);
-        }else{
+        } else {
             isAdActive = false;
         }
     }
@@ -126,8 +127,8 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
         ArrayList<String[]> data = sqLiteDBUtil.getDataOnDemand(this, "Select *from " + Constant.PASSWORD_TBL_NAME);
         //sqLiteDBUtil.CloseDB();
         passwordAdaptor = new PasswordAdaptor(this, data);
-        if(lvPassword==null){
-            lvPassword = (ListView)findViewById(R.id.password_list);
+        if (lvPassword == null) {
+            lvPassword = (ListView) findViewById(R.id.password_list);
         }
         lvPassword.setAdapter(passwordAdaptor);
     }
@@ -186,10 +187,10 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
         dialog.findViewById(R.id.iv_show_password).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if((int)mPassword.getTag() == 1){
+                if ((int) mPassword.getTag() == 1) {
                     mPassword.setTransformationMethod(HideReturnsTransformationMethod.getInstance());
                     mPassword.setTag(0);
-                }else{
+                } else {
                     mPassword.setTransformationMethod(PasswordTransformationMethod.getInstance());
                     mPassword.setTag(1);
                 }
@@ -206,7 +207,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
         updateTotal();
     }
 
-    private void startKeyBoard(){
+    private void startKeyBoard() {
         final KeyboardView keyboardView = new KeyboardView(this);
         final AlertDialog.Builder keyboadDialog = new AlertDialog.Builder(this);
         keyboadDialog.setView(keyboardView);
@@ -264,19 +265,19 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
                 .setNegativeButton("No", dialogClickListener).show();
     }*/
 
-   /* private void checkIfPinExist(Dialog dialog) {
-        //sqLiteDBUtil.OpenDB();
-        ArrayList<String[]> data = sqLiteDBUtil.getDataOnDemand(this, "Select *from " + Constant.USER_TBL_NAME);
-        //sqLiteDBUtil.CloseDB();
-        if (data == null || data.size() == 0) {
-            ((TextView) dialog.findViewById(R.id.tv_view_password)).setText(getString(R.string.create_pin));
-            edUserPin.setHint("4 digit");
-        } else {
-            ((TextView) dialog.findViewById(R.id.tv_view_password)).setText(getString(R.string.view_your_passwords));
-            edUserPin.setHint("Enter Pin");
-        }
-    }
-*/
+    /* private void checkIfPinExist(Dialog dialog) {
+         //sqLiteDBUtil.OpenDB();
+         ArrayList<String[]> data = sqLiteDBUtil.getDataOnDemand(this, "Select *from " + Constant.USER_TBL_NAME);
+         //sqLiteDBUtil.CloseDB();
+         if (data == null || data.size() == 0) {
+             ((TextView) dialog.findViewById(R.id.tv_view_password)).setText(getString(R.string.create_pin));
+             edUserPin.setHint("4 digit");
+         } else {
+             ((TextView) dialog.findViewById(R.id.tv_view_password)).setText(getString(R.string.view_your_passwords));
+             edUserPin.setHint("Enter Pin");
+         }
+     }
+ */
     private void addNewPassword(String[] data) {
         //sqLiteDBUtil.OpenDB();
         ArrayList<Object> passData = new ArrayList<>();
@@ -366,7 +367,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
     @Override
     public void onDelete(String id) {
         //sqLiteDBUtil.OpenDB();
-        sqLiteDBUtil.getDataOnDemand(this, "delete from "+Constant.PASSWORD_TBL_NAME+" where id='"+id+"'");
+        sqLiteDBUtil.getDataOnDemand(this, "delete from " + Constant.PASSWORD_TBL_NAME + " where id='" + id + "'");
         //sqLiteDBUtil.CloseDB();
         setPasswordData();
     }
@@ -424,13 +425,14 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
     private void checkForAPKUpdates() {
         if (NetworkUtility.isNetworkAvailable(this)) {
             new GetLatestVersion().execute();
-        }else{
+        } else {
             startWork();
         }
     }
 
     //To force update the user
     private String latestVersion;
+
     private String getCurrentVersion() {
         String currentVersion;
         PackageManager pm = this.getPackageManager();
@@ -482,7 +484,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
         @Override
         protected void onPostExecute(Boolean jsonObject) {
             super.onPostExecute(jsonObject);
-            if(!jsonObject){
+            if (!jsonObject) {
                 progressDialog.dismiss();
                 return;
             }
@@ -492,7 +494,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
 
             if (jsonObject) {
                 String currentVersion = getCurrentVersion();
-                Toast.makeText(HomeActivity.this, currentVersion + ", " + latestVersion, Toast.LENGTH_LONG).show();
+                //Toast.makeText(HomeActivity.this, currentVersion + ", " + latestVersion, Toast.LENGTH_LONG).show();
                 if (latestVersion != null && currentVersion != null) {
                     if (!currentVersion.equalsIgnoreCase(latestVersion)) {
                         SDKSettings.setSharedPreferenceString(HomeActivity.this, AppConstants.KEY_PREF_VERSION, latestVersion);
@@ -535,6 +537,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
     //Code from here is to show the add, temporarly off because of account suspension
 
     private InterstitialAd mInterstitialAd;
+
     private void adMOb() {
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId(getResources().getString(R.string.ad_unit_id));
@@ -588,7 +591,7 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
 
     @Override
     public void onBackPressed() {
-        if(isAdActive)
+        if (isAdActive)
             return;
         super.onBackPressed();
     }

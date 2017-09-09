@@ -17,7 +17,6 @@
     <string name="error_wrong_pin">Wrong Pin Entered</string>
     <string name="add_entry_text">Add password</string>
     <string name="view_your_passwords">Enter Pin to view your passwords</string>
-    <string name="create_pin">Create Pin to view your passwords</string>
     <string name="btn_add">ADD</string>
     <string name="total_passwa">Total:</string>
     <string name="ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>

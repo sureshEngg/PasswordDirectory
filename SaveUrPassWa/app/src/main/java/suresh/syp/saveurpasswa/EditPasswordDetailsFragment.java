@@ -69,11 +69,11 @@ public class EditPasswordDetailsFragment extends BottomSheetDialogFragment imple
 
     private void shareUserNamePass() {
         Intent sharingIntent = new Intent(Intent.ACTION_SEND);
-        sharingIntent.setType("text/html");
+        sharingIntent.setType("text/plain");
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-            sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, Html.fromHtml("<p><b>Username:<b> " + mDataItem[1] + "<br><b>Password:</b> " + mDataItem[2] + "</p>", Html.FROM_HTML_MODE_LEGACY));
+            sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, "Username: " + mDataItem[1] + "\n"+"Password: " + mDataItem[2]);
         } else {
-            sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, Html.fromHtml("<p><b>Username:<b> " + mDataItem[1] + "<br><b>Password:</b> " + mDataItem[2] + "</p>"));
+            sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, "Username: " + mDataItem[1] + "\n"+"Password: " + mDataItem[2]);
         }
         startActivity(Intent.createChooser(sharingIntent, "Share using"));
     }
