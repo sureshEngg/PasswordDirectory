@@ -1,0 +1,1102 @@
+[
+  {
+    "Key": "id_onboarding_text_1",
+    "Value": "Quand vous vous poseriez la question sur votre calendrier"
+  },
+  {
+    "Key": "id_onboarding_text_2",
+    "Value": "Ou quand la vie se passe"
+  },
+  {
+    "Key": "id_onboarding_text_3",
+    "Value": "Quand vous ne vous sentez pas bien"
+  },
+  {
+    "Key": "id_onboarding_text_4",
+    "Value": "Ou quand il est temps de traiter vous-même"
+  },
+  {
+    "Key": "id_next",
+    "Value": "Prochaine"
+  },
+  {
+    "Key": "id_done",
+    "Value": "Fait"
+  },
+  {
+    "Key": "id_skip",
+    "Value": "Sauter"
+  },
+  {
+    "Key": "Username",
+    "Value": "Nom d'utilisateur"
+  },
+  {
+    "Key": "Password",
+    "Value": "Mot de passe"
+  },
+  {
+    "Key": "id_company",
+    "Value": "Compagnie"
+  },
+  {
+    "Key": "Login",
+    "Value": "Ouverture de session"
+  },
+  {
+    "Key": "id_use_touch_id",
+    "Value": "Utilisez la touche ID"
+  },
+  {
+    "Key": "Error",
+    "Value": "Erreur"
+  },
+  {
+    "Key": "id_try_again",
+    "Value": "Réessayez"
+  },
+  {
+    "Key": "id_okay",
+    "Value": "OK"
+  },
+  {
+    "Key": "Cancel",
+    "Value": "Annuler"
+  },
+  {
+    "Key": "id_dismiss",
+    "Value": "Rejeter"
+  },
+  {
+    "Key": "SystemProfileForm_lblSettings",
+    "Value": "Paramètres"
+  },
+  {
+    "Key": "id_missing_information",
+    "Value": "Informations manquantes"
+  },
+  {
+    "Key": "id_some_of_the_required_fields_are_empty",
+    "Value": "Certains champs requis sont vides"
+  },
+  {
+    "Key": "id_incorrect_username_password",
+    "Value": "Le nom d’utilisateur / combinaison de mot de passe que vous avez entré est incorrect."
+  },
+  {
+    "Key": "id_you_have_entered_an_invalid_company_ID",
+    "Value": "Vous avez entré un code de société non valide"
+  },
+  {
+    "Key": "id_please_accept_terms_and_conditions_to_login",
+    "Value": "Veuillez accepter les termes & Conditions pour ouvrir une session"
+  },
+  {
+    "Key": "id_touch_id",
+    "Value": "TouchID"
+  },
+  {
+    "Key": "id_please_authenticate_using_TouchID",
+    "Value": "Veuillez vous authentifier à l’aide de TouchID."
+  },
+  {
+    "Key": "id_The_original_user_of_this_app_must_login_and_disable_TouchID_before_you_can_login_on_this_device",
+    "Value": "L’utilisateur original de ce soft doivent connexion et désactiver TouchID avant vous pouvez vous connecter sur cet appareil"
+  },
+  {
+    "Key": "id_this_device_does_not_support_touch_id",
+    "Value": "Cet appareil ne supporte pas le contact ID"
+  },
+  {
+    "Key": "id_please_enable_touch_id_on_your_device",
+    "Value": "S’il vous plaît activer Touch ID sur votre appareil"
+  },
+  {
+    "Key": "id_no_internet_connection",
+    "Value": "Pas de connexion Internet"
+  },
+  {
+    "Key": "id_mobile_network_issue",
+    "Value": "Problème de réseau"
+  },
+  {
+    "Key": "id_it_looks_like_there_are_some_issues_connecting_with_your_network",
+    "Value": "Il semble qu’il y a quelques problèmes de connexion avec votre réseau. Vérifiez votre connexion et réessayez."
+  },
+  {
+    "Key": "id_confirm_password",
+    "Value": "Confirmer le nouveau mot de passe"
+  },
+  {
+    "Key": "New_Password",
+    "Value": "Nouveau mot de passe"
+  },
+  {
+    "Key": "Mobile_Phone",
+    "Value": "Téléphone mobile"
+  },
+  {
+    "Key": "sms_text",
+    "Value": "texto/SMS"
+  },
+  {
+    "Key": "Mon",
+    "Value": "Lun"
+  },
+  {
+    "Key": "Tue",
+    "Value": "Mar"
+  },
+  {
+    "Key": "Wed",
+    "Value": "Mer"
+  },
+  {
+    "Key": "Thu",
+    "Value": "Jeu"
+  },
+  {
+    "Key": "Fri",
+    "Value": "Ven"
+  },
+  {
+    "Key": "Sat",
+    "Value": "Sam"
+  },
+  {
+    "Key": "Sun",
+    "Value": "Sun"
+  },
+  {
+    "Key": "Requests",
+    "Value": "Requêtes"
+  },
+  {
+    "Key": "Preferences",
+    "Value": "Préférences"
+  },
+  {
+    "Key": "Change_Password",
+    "Value": "Changer mot de passe"
+  },
+  {
+    "Key": "Submit",
+    "Value": "Envoyer"
+  },
+  {
+    "Key": "Name",
+    "Value": "Nom"
+  },
+  {
+    "Key": "id_log_out",
+    "Value": "Fermer la session"
+  },
+  {
+    "Key": "Start_Time",
+    "Value": "Heure de début"
+  },
+  {
+    "Key": "End_Time",
+    "Value": "Heure de fin"
+  },
+  {
+    "Key": "id_schedule",
+    "Value": "Annexe"
+  },
+  {
+    "Key": "Login_Id",
+    "Value": "ID de connexion"
+  },
+  {
+    "Key": "id_current_password",
+    "Value": "Mot de passe actuel"
+  },
+  {
+    "Key": "Today",
+    "Value": "Aujourd'hui"
+  },
+  {
+    "Key": "id_january",
+    "Value": "Janvier"
+  },
+  {
+    "Key": "id_february",
+    "Value": "Février"
+  },
+  {
+    "Key": "id_march",
+    "Value": "Mars"
+  },
+  {
+    "Key": "id_april",
+    "Value": "Avril"
+  },
+  {
+    "Key": "id_may",
+    "Value": "Mai"
+  },
+  {
+    "Key": "id_june",
+    "Value": "Juin"
+  },
+  {
+    "Key": "id_july",
+    "Value": "Juillet"
+  },
+  {
+    "Key": "id_august",
+    "Value": "Août"
+  },
+  {
+    "Key": "id_september",
+    "Value": "Septembre"
+  },
+  {
+    "Key": "id_october",
+    "Value": "Octobre"
+  },
+  {
+    "Key": "id_november",
+    "Value": "Novembre"
+  },
+  {
+    "Key": "id_december",
+    "Value": "Décembre"
+  },
+  {
+    "Key": "Sunday",
+    "Value": "Dimanche"
+  },
+  {
+    "Key": "Monday",
+    "Value": "Lundi"
+  },
+  {
+    "Key": "Tuesday",
+    "Value": "Mardi"
+  },
+  {
+    "Key": "Wednesday",
+    "Value": "Mercredi"
+  },
+  {
+    "Key": "Thursday",
+    "Value": "Jeudi"
+  },
+  {
+    "Key": "Friday",
+    "Value": "Vendredi"
+  },
+  {
+    "Key": "Saturday",
+    "Value": "Samedi"
+  },
+  {
+    "Key": "email_address",
+    "Value": "Adresse de courriel"
+  },
+  {
+    "Key": "id_enter_email_address",
+    "Value": "Entrez l’adresse e-mail"
+  },
+  {
+    "Key": "email",
+    "Value": "Messagerie"
+  },
+  {
+    "Key": "Save",
+    "Value": "Enregistrer"
+  },
+  {
+    "Key": "id_enter_phone_number",
+    "Value": "Entrez le numéro de téléphone"
+  },
+  {
+    "Key": "id_mobile_phone_number",
+    "Value": "Numéro de téléphone mobile"
+  },
+  {
+    "Key": "id_invalid_email_address",
+    "Value": "Adresse Email invalide"
+  },
+  {
+    "Key": "id_invalid_phone_number",
+    "Value": "Numéro de téléphone non valide"
+  },
+  {
+    "Key": "id_make_more_changes",
+    "Value": "Apporter d’autres modifications"
+  },
+  {
+    "Key": "id_go_to_preference",
+    "Value": "Accédez à vos préférences"
+  },
+  {
+    "Key": "id_work_preferences_saved",
+    "Value": "Préférences de travail enregistrés"
+  },
+  {
+    "Key": "id_provider_is_not_available",
+    "Value": "Fournisseur n’est pas disponible"
+  },
+  {
+    "Key": "id_you_do_not_have_permission_to_view_requests",
+    "Value": "Vous n’êtes pas autorisé à afficher les demandes"
+  },
+  {
+    "Key": "id_wrong_format",
+    "Value": "Format incorrect"
+  },
+  {
+    "Key": "id_data_is_in_wrong_format",
+    "Value": "Les données sont dans un format incorrect"
+  },
+  {
+    "Key": "id_allow_App_Notifications",
+    "Value": "Autoriser les Notifications App"
+  },
+  {
+    "Key": "id_notification_schedule",
+    "Value": "Calendrier de notification"
+  },
+  {
+    "Key": "id_work_preferences",
+    "Value": "Préférences de travail"
+  },
+  {
+    "Key": "id_use_touchid_to_login",
+    "Value": "Utilisez TouchID pour vous connecter"
+  },
+  {
+    "Key": "id_you_will_only_receive_notifications_of_the_types_that_you_want_on_the_days_that_you_choose",
+    "Value": "Vous recevrez uniquement des notifications des types que vous voulez sur les jours que vous choisissez"
+  },
+  {
+    "Key": "id_please_enter_a_valid_email_address_before_enabling",
+    "Value": "Veuillez entrer une adresse email valide avant d’activer"
+  },
+  {
+    "Key": "id_Please_enter_a_valid_mobile_phone_number_before_enabling",
+    "Value": "Veuillez entrer un numéro de téléphone portable valide avant d’activer"
+  },
+  {
+    "Key": "id_success",
+    "Value": "Succès"
+  },
+  {
+    "Key": "id_Your_request_has_been_sent_successfully",
+    "Value": "Votre demande a été envoyé avec succès"
+  },
+  {
+    "Key": "id_You_have_an_edit_in_progress.Are_you_sure_you_want_to_discard_it",
+    "Value": "Vous avez un outil d’édition en cours. Êtes-vous sûr de que vouloir s’en défaire"
+  },
+  {
+    "Key": "id_Yes_Discard",
+    "Value": "Oui, jeter"
+  },
+  {
+    "Key": "id_Keep_Editing",
+    "Value": "Édition de garder"
+  },
+  {
+    "Key": "id_Failed",
+    "Value": "A échoué"
+  },
+  {
+    "Key": "id_Cannot_generate_event_at_this_moment",
+    "Value": "Ne peut pas générer l’événement en ce moment"
+  },
+  {
+    "Key": "id_Your_request_was_successfully_submitted._You_will_receive_a_confirmation_message_if_it_is_approved",
+    "Value": "Votre demande a été envoyé avec succès. Vous recevrez un message de confirmation s’il est approuvé"
+  },
+  {
+    "Key": "id_Go_to_Schedule",
+    "Value": "Aller au calendrier"
+  },
+  {
+    "Key": "id_shift_has_already_started",
+    "Value": "Maj a déjà commencé"
+  },
+  {
+    "Key": "minutes",
+    "Value": "minutes"
+  },
+  {
+    "Key": "id_Work",
+    "Value": "Travail"
+  },
+  {
+    "Key": "id_session_timeOut",
+    "Value": "TimeOut de session"
+  },
+  {
+    "Key": "id_your_session_has_been_timed_out.you_have_to_login_again",
+    "Value": "Votre session a expiré. Vous devrez vous identifier à nouveau"
+  },
+  {
+    "Key": "Search",
+    "Value": "Rechercher"
+  },
+  {
+    "Key": "id_old_start_time",
+    "Value": "Heure de début de vieux"
+  },
+  {
+    "Key": "id_old_end_time",
+    "Value": "Vieux temps de la fin"
+  },
+  {
+    "Key": "id_reset",
+    "Value": "Remise à zéro"
+  },
+  {
+    "Key": "id_work_same_number_of_hours",
+    "Value": "Même nombre d’heures de travail"
+  },
+  {
+    "Key": "id_your_info",
+    "Value": "Vos infos"
+  },
+  {
+    "Key": "id_notifications",
+    "Value": "Notifications"
+  },
+  {
+    "Key": "id_security",
+    "Value": "Sécurité"
+  },
+  {
+    "Key": "id_more",
+    "Value": "Plus"
+  },
+  {
+    "Key": "id_enable_analytics_collection",
+    "Value": "Activer la collecte de l’Analytique"
+  },
+  {
+    "Key": "id_this_data_will_be_anonomously_shared_with_developers_to_improve_your_experience",
+    "Value": "Ces données seront partagée avec les développeurs pour améliorer votre expérience d’anonomously"
+  },
+  {
+    "Key": "id_Webhelp",
+    "Value": "Aide Web"
+  },
+  {
+    "Key": "id_Submit_a_Bug",
+    "Value": "Signaler un bogue"
+  },
+  {
+    "Key": "id_User_Voice",
+    "Value": "Voix de l’utilisateur"
+  },
+  {
+    "Key": "id_the_current_password_that_you_entered_is_incorrect",
+    "Value": "Le mot de passe actuel que vous avez entré est incorrect"
+  },
+  {
+    "Key": "id_the_passwords_that_you_entered_do_not_match",
+    "Value": "Les mots de passe que vous avez entré ne correspondent pas"
+  },
+  {
+    "Key": "id_password_reset_failed_which_does_not_meet_requirement",
+    "Value": "Réinitialisation de mot de passe a échoué qui ne remplit pas le critère"
+  },
+  {
+    "Key": "id_apply_to_multiple_day",
+    "Value": "S’applique à plusieurs jours"
+  },
+  {
+    "Key": "Hour",
+    "Value": "heure"
+  },
+  {
+    "Key": "id_notification_preferences_saved",
+    "Value": "Préférences de notification enregistrées"
+  },
+  {
+    "Key": "id_notification_preferences_was_successfully_saved",
+    "Value": "Préférences de notification a été enregistré avec succès"
+  },
+  {
+    "Key": "id_notification_preference",
+    "Value": "Préférences de notification"
+  },
+  {
+    "Key": "Back",
+    "Value": "Précédent"
+  },
+  {
+    "Key": "id_date_time",
+    "Value": "Date/heure"
+  },
+  {
+    "Key": "id_date",
+    "Value": "Date"
+  },
+  {
+    "Key": "id_enter_text",
+    "Value": "Entrer du texte"
+  },
+  {
+    "Key": "id_enter_number",
+    "Value": "Entrez le numéro de"
+  },
+  {
+    "Key": "Yes",
+    "Value": "Oui"
+  },
+  {
+    "Key": "No",
+    "Value": "Non"
+  },
+  {
+    "Key": "id_would_you_like_to_use_TouchID_to_log_into_this_app_in_the_future",
+    "Value": "Vous souhaitez utiliser TouchID pour vous connecter à cette application dans le futur ?"
+  },
+  {
+    "Key": "Edit",
+    "Value": "Edit"
+  },
+  {
+    "Key": "Shift",
+    "Value": "Maj"
+  },
+  {
+    "Key": "id_edit_start_time",
+    "Value": "Modifier l’heure de début"
+  },
+  {
+    "Key": "id_edit_end_time",
+    "Value": "Modifier l’heure de fin"
+  },
+  {
+    "Key": "id_available_for_work",
+    "Value": "Disponible pour travailler"
+  },
+  {
+    "Key": "id_allow_notifications",
+    "Value": "Autoriser les Notifications"
+  },
+  {
+    "Key": "id_work_offers",
+    "Value": "Offres de travail"
+  },
+  {
+    "Key": "id_before_shift",
+    "Value": "Avant la Maj"
+  },
+  {
+    "Key": "id_time_before_shift",
+    "Value": "Temps avant Maj"
+  },
+  {
+    "Key": "id_shift_duration",
+    "Value": "Durée de déplacement"
+  },
+  {
+    "Key": "id_request_change",
+    "Value": "Demande de changement"
+  },
+  {
+    "Key": "id_alerts",
+    "Value": "Alertes"
+  },
+  {
+    "Key": "id_accept",
+    "Value": "Accepter"
+  },
+  {
+    "Key": "id_your_password_has_been_reset_successfully",
+    "Value": "Votre mot de passe a été réinitialisé correctement."
+  },
+  {
+    "Key": "id_work_preferences_was_successfully_saved",
+    "Value": "Préférences de travail a été enregistré avec succès"
+  },
+  {
+    "Key": "id_request_sent",
+    "Value": "Demande envoyée"
+  },
+  {
+    "Key": "Message",
+    "Value": "Message"
+  },
+  {
+    "Key": "id_archive",
+    "Value": "Mes archives"
+  },
+  {
+    "Key": "id_otto_provider_is_not_available",
+    "Value": "Fournisseur d’essence n’est pas disponible"
+  },
+  {
+    "Key": "id_terms_and_conditions",
+    "Value": "Termes des Conditions &"
+  },
+  {
+    "Key": "id_current",
+    "Value": "Courant"
+  },
+  {
+    "Key": "id_settings",
+    "Value": "Paramètres"
+  },
+  {
+    "Key": "id_confirm_response",
+    "Value": "Confirmer la réponse"
+  },
+  {
+    "Key": "id_delete_message",
+    "Value": "Supprimer le Message"
+  },
+  {
+    "Key": "id_delete",
+    "Value": "Supprimer"
+  },
+  {
+    "Key": "id_push_notifications",
+    "Value": "Notifications Push"
+  },
+  {
+    "Key": "id_enter_company_name",
+    "Value": "Entrez votre nom d’entreprise"
+  },
+  {
+    "Key": "id_please_wait",
+    "Value": "Veuillez patienter"
+  },
+  {
+    "Key": "id_loading",
+    "Value": "Chargement"
+  },
+  {
+    "Key": "Week",
+    "Value": "Semaine"
+  },
+  {
+    "Key": "id_sms",
+    "Value": "SMS"
+  },
+  {
+    "Key": "id_yesterday",
+    "Value": "Hier"
+  },
+  {
+    "Key": "id_older",
+    "Value": "Plus âgés"
+  },
+  {
+    "Key": "id_yes_submit",
+    "Value": "Oui, soumettre"
+  },
+  {
+    "Key": "id_new_request",
+    "Value": "Nouvelle demande"
+  },
+  {
+    "Key": "id_available_for_overtime",
+    "Value": "Disponible pour les heures supplémentaires"
+  },
+  {
+    "Key": "id_update_password",
+    "Value": "Mise à jour de mot de passe"
+  },
+  {
+    "Key": "id_logged_out",
+    "Value": "Déconnecté"
+  },
+  {
+    "Key": "id_logged_out_due_to_inactivity",
+    "Value": "Vous étiez connecté l’inactivité. Veuillez vous connecter à nouveau."
+  },
+  {
+    "Key": "id_go_to_login",
+    "Value": "Aller au Login"
+  },
+  {
+    "Key": "id_submit_request",
+    "Value": "Soumettre la demande ?"
+  },
+  {
+    "Key": "id_no_new_notifications",
+    "Value": "Vous n’avez pas les nouvelles notifications dès maintenant"
+  },
+  {
+    "Key": "Delete",
+    "Value": "Supprimer"
+  },
+  {
+    "Key": "New",
+    "Value": "Nouveau"
+  },
+  {
+    "Key": "id_work_notifications",
+    "Value": "Notifications de travail"
+  },
+  {
+    "Key": "id_shift_notifications",
+    "Value": "Notifications de Maj"
+  },
+  {
+    "Key": "id_company_id",
+    "Value": "ID de l’entreprise"
+  },
+  {
+    "Key": "id_invalid_company_id",
+    "Value": "Vous avez entré un code de société non valide."
+  },
+  {
+    "Key": "id_otto_button_try-again",
+    "Value": "Réessayez"
+  },
+  {
+    "Key": "Reset",
+    "Value": "Remise à zéro"
+  },
+  {
+    "Key": "Select",
+    "Value": "Sélectionnez"
+  },
+  {
+    "Key": "field_cannot_be_blank",
+    "Value": "Champ ne peut pas être vide."
+  },
+  {
+    "Key": "id_processing",
+    "Value": "Traitement"
+  },
+  {
+    "Key": "id_discard_request",
+    "Value": "Ignorer la demande ?"
+  },
+  {
+    "Key": "id_confirm_discard_request",
+    "Value": "Vous avez un outil d’édition en cours. Êtes-vous sûr de que vouloir s’en défaire ?"
+  },
+  {
+    "Key": "id_new_shift_duration",
+    "Value": "id_new_shift_duration"
+  },
+  {
+    "Key": "day",
+    "Value": "Journée"
+  },
+  {
+    "Key": "password_and_confirm_password_must_match",
+    "Value": "Mot de passe et confirmer le mot de passe doivent correspondre."
+  },
+  {
+    "Key": "id_incorrect_password",
+    "Value": "Mot de passe incorrect"
+  },
+  {
+    "Key": "id_password_updated",
+    "Value": "Mot de passe mis à jour"
+  },
+  {
+    "Key": "applyButton",
+    "Value": "Appliquer"
+  },
+  {
+    "Key": "id_how_would_you_like_to_edit_your_time?",
+    "Value": "Comment souhaitez-vous modifier votre temps ?"
+  },
+  {
+    "Key": "id_split_shift_and_move_hours",
+    "Value": "Poste fractionné et heures de passage"
+  },
+  {
+    "Key": "id_just_drop_the_hours",
+    "Value": "Il suffit de glisser les heures"
+  },
+  {
+    "Key": "DescName1F7E9252-7347-47DA-9442-BF998D564B2C",
+    "Value": "Temps de sortie"
+  },
+  {
+    "Key": "id_your_bug_was_submitted_successfully_thanks_for_your_input.",
+    "Value": "Bogue soumis"
+  },
+  {
+    "Key": "id_error_getting_event_definition",
+    "Value": "Une erreur s’est produite se définitions d’événement."
+  },
+  {
+    "Key": "id_error_renewing_account__credentials",
+    "Value": "Une erreur s’est produite lors du renouvellement des informations d’identification de compte."
+  },
+  {
+    "Key": "id_error_getting_provider_instance",
+    "Value": "Une erreur s’est produite pour l’instance du fournisseur."
+  },
+  {
+    "Key": "id_error_getting_provider_definition",
+    "Value": "Une erreur s’est produite pour la définition du fournisseur."
+  },
+  {
+    "Key": "id_error_getting_google_play_service",
+    "Value": "Cet appareil n’est pas supporté par Google Services de jouer."
+  },
+  {
+    "Key": "id_expecting_sas",
+    "Value": "Exception, générant des SaS : "
+  },
+  {
+    "Key": "id_fill_required_credentials",
+    "Value": "Entrée non valide. Merci de remplir tous les champs obligatoires."
+  },
+  {
+    "Key": "id_error_making_request",
+    "Value": "Une erreur s’est produite lors de votre demande. Veuillez réessayer ultérieurement."
+  },
+  {
+    "Key": "id_error_getting_system_settings",
+    "Value": "Erreur dans la réception des paramètres du système."
+  },
+  {
+    "Key": "id_error_getting_account_credentials",
+    "Value": "Une erreur s’est produite lors de l’obtention des informations d’identification de compte"
+  },
+  {
+    "Key": "id_error_renew_account_credentials",
+    "Value": "Une erreur s’est produite lors du renouvellement des informations d’identification de compte"
+  },
+  {
+    "Key": "id_error_checking_account_credentials",
+    "Value": "Une erreur s’est produite alors que des informations d’identification de compte courant."
+  },
+  {
+    "Key": "id_shift_already_started",
+    "Value": "Maj a déjà commencé"
+  },
+  {
+    "Key": "id_set_email",
+    "Value": "Entrez l’adresse E-mail"
+  },
+  {
+    "Key": "Hours",
+    "Value": "Heures"
+  },
+  {
+    "Key": "id_minute",
+    "Value": "Minutes"
+  },
+  {
+    "Key": "None",
+    "Value": "Aucun"
+  },
+  {
+    "Key": "id_request_details",
+    "Value": "Détails de la requête"
+  },
+  {
+    "Key": "AM",
+    "Value": "Suis"
+  },
+  {
+    "Key": "PM",
+    "Value": "PM"
+  },
+  {
+    "Key": "TermsAndConditions_lblPageTitle",
+    "Value": "Termes et Conditions"
+  },
+  {
+    "Key": "decline",
+    "Value": "Déclin"
+  },
+  {
+    "Key": "id_min",
+    "Value": "Min"
+  },
+  {
+    "Key": "id_hr",
+    "Value": "Ressources humaines"
+  },
+  {
+    "Key": "id_split_and_move_hours",
+    "Value": "Diviser et passer des heures"
+  },
+  {
+    "Key": "id_we_are_unable_to_connect_to_the_specified_company_name",
+    "Value": "Nous sommes incapables de se connecter au nom de la société spécifié"
+  },
+  {
+    "Key": "id_not_authorized",
+    "Value": "Vous n’êtes pas autorisé. Contactez l’administrateur."
+  },
+  {
+    "Key": "id_token_not_correct",
+    "Value": "Jeton n’est pas correct. Veuillez vous connecter à nouveau"
+  },
+  {
+    "Key": "id_select_where_to_split",
+    "Value": "Sélectionnez où les diviser"
+  },
+  {
+    "Key": "id_select_where_to_move",
+    "Value": "Choisir où aller"
+  },
+  {
+    "Key": "id_summary",
+    "Value": "Résumé"
+  },
+  {
+    "Key": "id_request",
+    "Value": "Demande"
+  },
+  {
+    "Key": "id_unable_to_fetch_messages",
+    "Value": "Impossible d’extraire les messages"
+  },
+  {
+    "Key": "id_splitting_from",
+    "Value": "Fractionnement de"
+  },
+  {
+    "Key": "id_moving_to",
+    "Value": "Déménagement à"
+  },
+  {
+    "Key": "id_time",
+    "Value": "Temps"
+  },
+  {
+    "Key": "id_duration",
+    "Value": "Durée"
+  },
+  {
+    "Key": "id_placing",
+    "Value": "Mise en place"
+  },
+  {
+    "Key": "id_error_getting_terms_and_condition",
+    "Value": "Erreur dans la réception des termes et conditions."
+  },
+  {
+    "Key": "id_splitting",
+    "Value": "Fractionnement"
+  },
+  {
+    "Key": "id_adding",
+    "Value": "Ajout de"
+  },
+  {
+    "Key": "id_start_time_less_end_time",
+    "Value": "Heure de début doit être inférieure à l’heure de fin."
+  },
+  {
+    "Key": "id_editing",
+    "Value": "Édition"
+  },
+  {
+    "Key": "id_undo",
+    "Value": "Annuler"
+  },
+  {
+    "Key": "id_retry",
+    "Value": "Nouvelle tentative"
+  },
+  {
+    "Key": "id_you_answered",
+    "Value": "Vous avez répondu"
+  },
+  {
+    "Key": "id_there_was_an_error_when_sending_your_response",
+    "Value": "Il y avait une erreur lors de l’envoi de votre réponse."
+  },
+  {
+    "Key": "id_add_shift",
+    "Value": "Ajouter Maj"
+  },
+  {
+    "Key": "id_minimum_shift_length_title",
+    "Value": "Longueur minimum Shift"
+  },
+  {
+    "Key": "id_minimum_shift_length_message",
+    "Value": "Un changement ne peut être que court. Vous pouvez, toutefois, choisir de passer le décalage entier à un autre jour."
+  },
+  {
+    "Key": "id_midnight_shift_title",
+    "Value": "Quart de nuit"
+  },
+  {
+    "Key": "id_midnight_shift_message",
+    "Value": "Vous n’êtes pas autorisé à modifier le quart de nuit."
+  },
+  {
+    "Key": "id_set_to_minimum",
+    "Value": "RÉGLÉ AU MINIMUM"
+  },
+  {
+    "Key": "id_select_entire_shift",
+    "Value": "SÉLECTIONNEZ DÉCALAGE ENTIER"
+  },
+  {
+    "Key": "id_duration_must_be_between_1_and_24_hours",
+    "Value": "Durée doit être comprise entre 1 et 24 heures"
+  },
+  {
+    "Key": "id_error_occour_while_refreshing_page",
+    "Value": "Une erreur s’est produite lors de l’actualisation de la page."
+  },
+  {
+    "Key": "id_error_in_receiving_messege",
+    "Value": "Erreur dans la réception de message."
+  },
+  {
+    "Key": "id_invalid_username_or_password",
+    "Value": "Nom d’utilisateur non valide ou mot de passe."
+  },
+  {
+    "Key": "id_unable_to_authenticate_user",
+    "Value": "Impossible d’authentifier l’utilisateur."
+  },
+  {
+    "Key": "Running_Late",
+    "Value": "En retard"
+  },
+  {
+    "Key": "Out_Sick",
+    "Value": "Des malades"
+  },
+  {
+    "Key": "Request_VTO",
+    "Value": "Demande VTO"
+  },
+  {
+    "Key": "Request_VOT",
+    "Value": "Demande VOT"
+  },
+  {
+    "Key": "Message_to_Supervisor",
+    "Value": "Message au superviseur"
+  },
+  {
+    "Key": "Note_to_Manager",
+    "Value": "Remarque au gestionnaire"
+  },
+  {
+    "Key": "User_List",
+    "Value": "Liste des utilisateurs"
+  },
+  {
+    "Key": "change_to_different_time",
+    "Value": "Changer à un autre moment"
+  },
+  {
+    "Key": "id_are_you_sure_want_to_delete_message",
+    "Value": "Êtes-vous sûr de que vouloir supprimer ce message ?"
+  },
+  {
+    "Key": "Minutes_Running_Late",
+    "Value": "Minutes en retard"
+  },
+  {
+    "Key": "id_request_not_sent",
+    "Value": "Demande ne pas envoyée"
+  }
+]

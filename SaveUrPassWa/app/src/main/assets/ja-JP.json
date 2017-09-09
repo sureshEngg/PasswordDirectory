@@ -1,0 +1,1102 @@
+[
+  {
+    "Key": "id_onboarding_text_1",
+    "Value": "あなたのスケジュールについて迷っているとき"
+  },
+  {
+    "Key": "id_onboarding_text_2",
+    "Value": "生命が発生したときまたは"
+  },
+  {
+    "Key": "id_onboarding_text_3",
+    "Value": "ときにも感じていないしています。"
+  },
+  {
+    "Key": "id_onboarding_text_4",
+    "Value": "自分自身を治療する時間があるとき"
+  },
+  {
+    "Key": "id_next",
+    "Value": "次に"
+  },
+  {
+    "Key": "id_done",
+    "Value": "行われます"
+  },
+  {
+    "Key": "id_skip",
+    "Value": "スキップ"
+  },
+  {
+    "Key": "Username",
+    "Value": "ユーザー名"
+  },
+  {
+    "Key": "Password",
+    "Value": "パスワード"
+  },
+  {
+    "Key": "id_company",
+    "Value": "会社"
+  },
+  {
+    "Key": "Login",
+    "Value": "ログイン"
+  },
+  {
+    "Key": "id_use_touch_id",
+    "Value": "Touch ID を使用します。"
+  },
+  {
+    "Key": "Error",
+    "Value": "エラー"
+  },
+  {
+    "Key": "id_try_again",
+    "Value": "もう一度やり直してください"
+  },
+  {
+    "Key": "id_okay",
+    "Value": "オーケー"
+  },
+  {
+    "Key": "Cancel",
+    "Value": "キャンセル"
+  },
+  {
+    "Key": "id_dismiss",
+    "Value": "却下"
+  },
+  {
+    "Key": "SystemProfileForm_lblSettings",
+    "Value": "設定"
+  },
+  {
+    "Key": "id_missing_information",
+    "Value": "不足している情報"
+  },
+  {
+    "Key": "id_some_of_the_required_fields_are_empty",
+    "Value": "いくつかの必須フィールドが空"
+  },
+  {
+    "Key": "id_incorrect_username_password",
+    "Value": "ユーザー名/パスワードの組み合わせを入力したが正しい。"
+  },
+  {
+    "Key": "id_you_have_entered_an_invalid_company_ID",
+    "Value": "無効な ID を入力しました。"
+  },
+  {
+    "Key": "id_please_accept_terms_and_conditions_to_login",
+    "Value": "くださいログインする条項・条件を受け入れる"
+  },
+  {
+    "Key": "id_touch_id",
+    "Value": "TouchID"
+  },
+  {
+    "Key": "id_please_authenticate_using_TouchID",
+    "Value": "TouchID を使用して認証を行ってください。"
+  },
+  {
+    "Key": "id_The_original_user_of_this_app_must_login_and_disable_TouchID_before_you_can_login_on_this_device",
+    "Value": "元のユーザーこのアプリの必要がありますログインとする前に無効にする TouchID ログインことができますこのデバイス上"
+  },
+  {
+    "Key": "id_this_device_does_not_support_touch_id",
+    "Value": "このデバイスは、Touch ID をサポートしていません。"
+  },
+  {
+    "Key": "id_please_enable_touch_id_on_your_device",
+    "Value": "あなたのデバイス上のタッチ ID を有効にしてください。"
+  },
+  {
+    "Key": "id_no_internet_connection",
+    "Value": "いいえ、インターネット接続"
+  },
+  {
+    "Key": "id_mobile_network_issue",
+    "Value": "ネットワークの問題"
+  },
+  {
+    "Key": "id_it_looks_like_there_are_some_issues_connecting_with_your_network",
+    "Value": "ネットワークに接続するいくつかの問題があるように見えます。接続を確認して、もう一度やり直してください。"
+  },
+  {
+    "Key": "id_confirm_password",
+    "Value": "新しいパスワードを確認します。"
+  },
+  {
+    "Key": "New_Password",
+    "Value": "新しいパスワード"
+  },
+  {
+    "Key": "Mobile_Phone",
+    "Value": "携帯電話"
+  },
+  {
+    "Key": "sms_text",
+    "Value": "テキスト/SMS"
+  },
+  {
+    "Key": "Mon",
+    "Value": "(月)"
+  },
+  {
+    "Key": "Tue",
+    "Value": "火"
+  },
+  {
+    "Key": "Wed",
+    "Value": "水"
+  },
+  {
+    "Key": "Thu",
+    "Value": "木"
+  },
+  {
+    "Key": "Fri",
+    "Value": "日 (金)"
+  },
+  {
+    "Key": "Sat",
+    "Value": "土"
+  },
+  {
+    "Key": "Sun",
+    "Value": "太陽"
+  },
+  {
+    "Key": "Requests",
+    "Value": "要求"
+  },
+  {
+    "Key": "Preferences",
+    "Value": "設定"
+  },
+  {
+    "Key": "Change_Password",
+    "Value": "パスワードの変更"
+  },
+  {
+    "Key": "Submit",
+    "Value": "送信"
+  },
+  {
+    "Key": "Name",
+    "Value": "名前"
+  },
+  {
+    "Key": "id_log_out",
+    "Value": "ログアウトします。"
+  },
+  {
+    "Key": "Start_Time",
+    "Value": "開始時刻"
+  },
+  {
+    "Key": "End_Time",
+    "Value": "終了時刻"
+  },
+  {
+    "Key": "id_schedule",
+    "Value": "スケジュール"
+  },
+  {
+    "Key": "Login_Id",
+    "Value": "ログイン ID"
+  },
+  {
+    "Key": "id_current_password",
+    "Value": "現在のパスワード"
+  },
+  {
+    "Key": "Today",
+    "Value": "今日"
+  },
+  {
+    "Key": "id_january",
+    "Value": "1 月"
+  },
+  {
+    "Key": "id_february",
+    "Value": "2 月"
+  },
+  {
+    "Key": "id_march",
+    "Value": "3 月"
+  },
+  {
+    "Key": "id_april",
+    "Value": "4 月"
+  },
+  {
+    "Key": "id_may",
+    "Value": "5 月"
+  },
+  {
+    "Key": "id_june",
+    "Value": "6 月"
+  },
+  {
+    "Key": "id_july",
+    "Value": "7 月"
+  },
+  {
+    "Key": "id_august",
+    "Value": "8 月"
+  },
+  {
+    "Key": "id_september",
+    "Value": "9 月"
+  },
+  {
+    "Key": "id_october",
+    "Value": "10 月"
+  },
+  {
+    "Key": "id_november",
+    "Value": "11 月"
+  },
+  {
+    "Key": "id_december",
+    "Value": "12 月"
+  },
+  {
+    "Key": "Sunday",
+    "Value": "日曜日"
+  },
+  {
+    "Key": "Monday",
+    "Value": "月曜日"
+  },
+  {
+    "Key": "Tuesday",
+    "Value": "火曜日"
+  },
+  {
+    "Key": "Wednesday",
+    "Value": "水曜日"
+  },
+  {
+    "Key": "Thursday",
+    "Value": "木曜日"
+  },
+  {
+    "Key": "Friday",
+    "Value": "金曜日"
+  },
+  {
+    "Key": "Saturday",
+    "Value": "土曜日"
+  },
+  {
+    "Key": "email_address",
+    "Value": "メール アドレス"
+  },
+  {
+    "Key": "id_enter_email_address",
+    "Value": "メール アドレスを入力します。"
+  },
+  {
+    "Key": "email",
+    "Value": "電子メール"
+  },
+  {
+    "Key": "Save",
+    "Value": "保存"
+  },
+  {
+    "Key": "id_enter_phone_number",
+    "Value": "電話番号を入力します。"
+  },
+  {
+    "Key": "id_mobile_phone_number",
+    "Value": "携帯電話番号"
+  },
+  {
+    "Key": "id_invalid_email_address",
+    "Value": "無効なメール アドレス"
+  },
+  {
+    "Key": "id_invalid_phone_number",
+    "Value": "無効な電話番号"
+  },
+  {
+    "Key": "id_make_more_changes",
+    "Value": "多くの変化を作る"
+  },
+  {
+    "Key": "id_go_to_preference",
+    "Value": "好みに行く"
+  },
+  {
+    "Key": "id_work_preferences_saved",
+    "Value": "動作環境設定の保存"
+  },
+  {
+    "Key": "id_provider_is_not_available",
+    "Value": "プロバイダーは使用できません。"
+  },
+  {
+    "Key": "id_you_do_not_have_permission_to_view_requests",
+    "Value": "要求を表示する権限がないです。"
+  },
+  {
+    "Key": "id_wrong_format",
+    "Value": "形式が間違っています。"
+  },
+  {
+    "Key": "id_data_is_in_wrong_format",
+    "Value": "データが間違った形式で"
+  },
+  {
+    "Key": "id_allow_App_Notifications",
+    "Value": "アプリの通知を許可します。"
+  },
+  {
+    "Key": "id_notification_schedule",
+    "Value": "通知スケジュール"
+  },
+  {
+    "Key": "id_work_preferences",
+    "Value": "動作環境設定"
+  },
+  {
+    "Key": "id_use_touchid_to_login",
+    "Value": "ログインするための TouchID を使用します。"
+  },
+  {
+    "Key": "id_you_will_only_receive_notifications_of_the_types_that_you_want_on_the_days_that_you_choose",
+    "Value": "だけを選択する日にしたいの種類の通知を受信します。"
+  },
+  {
+    "Key": "id_please_enter_a_valid_email_address_before_enabling",
+    "Value": "有効にする前に、有効な電子メール アドレスを入力してください。"
+  },
+  {
+    "Key": "id_Please_enter_a_valid_mobile_phone_number_before_enabling",
+    "Value": "有効にする前に有効な携帯電話番号を入力してください。"
+  },
+  {
+    "Key": "id_success",
+    "Value": "成功"
+  },
+  {
+    "Key": "id_Your_request_has_been_sent_successfully",
+    "Value": "あなたのリクエストが正常に送信されました。"
+  },
+  {
+    "Key": "id_You_have_an_edit_in_progress.Are_you_sure_you_want_to_discard_it",
+    "Value": "進行中の編集があります。あなたはそれを破棄します"
+  },
+  {
+    "Key": "id_Yes_Discard",
+    "Value": "はい、破棄します。"
+  },
+  {
+    "Key": "id_Keep_Editing",
+    "Value": "編集を続ける"
+  },
+  {
+    "Key": "id_Failed",
+    "Value": "失敗しました"
+  },
+  {
+    "Key": "id_Cannot_generate_event_at_this_moment",
+    "Value": "この時点でイベントを生成することはできません。"
+  },
+  {
+    "Key": "id_Your_request_was_successfully_submitted._You_will_receive_a_confirmation_message_if_it_is_approved",
+    "Value": "お客様のリクエストが正常に送信されました。それが承認された場合、確認のメッセージが表示されます。"
+  },
+  {
+    "Key": "id_Go_to_Schedule",
+    "Value": "スケジュールへ"
+  },
+  {
+    "Key": "id_shift_has_already_started",
+    "Value": "シフトが始まっています。"
+  },
+  {
+    "Key": "minutes",
+    "Value": "分"
+  },
+  {
+    "Key": "id_Work",
+    "Value": "作業"
+  },
+  {
+    "Key": "id_session_timeOut",
+    "Value": "セッションのタイムアウト"
+  },
+  {
+    "Key": "id_your_session_has_been_timed_out.you_have_to_login_again",
+    "Value": "あなたのセッションがタイムアウトします。再度ログインする必要があります。"
+  },
+  {
+    "Key": "Search",
+    "Value": "検索"
+  },
+  {
+    "Key": "id_old_start_time",
+    "Value": "古い開始時刻"
+  },
+  {
+    "Key": "id_old_end_time",
+    "Value": "古い終了時刻"
+  },
+  {
+    "Key": "id_reset",
+    "Value": "リセット"
+  },
+  {
+    "Key": "id_work_same_number_of_hours",
+    "Value": "勤務時間の同じ番号"
+  },
+  {
+    "Key": "id_your_info",
+    "Value": "あなたの情報"
+  },
+  {
+    "Key": "id_notifications",
+    "Value": "通知"
+  },
+  {
+    "Key": "id_security",
+    "Value": "セキュリティ"
+  },
+  {
+    "Key": "id_more",
+    "Value": "もっとその"
+  },
+  {
+    "Key": "id_enable_analytics_collection",
+    "Value": "アナリティクスのコレクションを有効にします。"
+  },
+  {
+    "Key": "id_this_data_will_be_anonomously_shared_with_developers_to_improve_your_experience",
+    "Value": "このデータは、anonomously のあなたの経験を改善するために開発者と共有されます。"
+  },
+  {
+    "Key": "id_Webhelp",
+    "Value": "Web ヘルプ"
+  },
+  {
+    "Key": "id_Submit_a_Bug",
+    "Value": "バグを送信します。"
+  },
+  {
+    "Key": "id_User_Voice",
+    "Value": "ユーザーの声"
+  },
+  {
+    "Key": "id_the_current_password_that_you_entered_is_incorrect",
+    "Value": "入力した現在のパスワードが正しくありません。"
+  },
+  {
+    "Key": "id_the_passwords_that_you_entered_do_not_match",
+    "Value": "入力したパスワードが一致しません"
+  },
+  {
+    "Key": "id_password_reset_failed_which_does_not_meet_requirement",
+    "Value": "要件を満たしていないパスワードのリセットに失敗しました"
+  },
+  {
+    "Key": "id_apply_to_multiple_day",
+    "Value": "複数の日に適用します。"
+  },
+  {
+    "Key": "Hour",
+    "Value": "時間"
+  },
+  {
+    "Key": "id_notification_preferences_saved",
+    "Value": "保存の通知設定"
+  },
+  {
+    "Key": "id_notification_preferences_was_successfully_saved",
+    "Value": "通知設定は正常に保存されました"
+  },
+  {
+    "Key": "id_notification_preference",
+    "Value": "通知設定"
+  },
+  {
+    "Key": "Back",
+    "Value": "戻る"
+  },
+  {
+    "Key": "id_date_time",
+    "Value": "日付/時刻"
+  },
+  {
+    "Key": "id_date",
+    "Value": "日付"
+  },
+  {
+    "Key": "id_enter_text",
+    "Value": "テキストを入力します。"
+  },
+  {
+    "Key": "id_enter_number",
+    "Value": "番号を入力します。"
+  },
+  {
+    "Key": "Yes",
+    "Value": "はい"
+  },
+  {
+    "Key": "No",
+    "Value": "いいえ"
+  },
+  {
+    "Key": "id_would_you_like_to_use_TouchID_to_log_into_this_app_in_the_future",
+    "Value": "TouchID を使用して、将来的にこのアプリにログインしますか?"
+  },
+  {
+    "Key": "Edit",
+    "Value": "編集"
+  },
+  {
+    "Key": "Shift",
+    "Value": "シフト"
+  },
+  {
+    "Key": "id_edit_start_time",
+    "Value": "開始時刻を編集します。"
+  },
+  {
+    "Key": "id_edit_end_time",
+    "Value": "終了時刻を編集します。"
+  },
+  {
+    "Key": "id_available_for_work",
+    "Value": "作業に利用"
+  },
+  {
+    "Key": "id_allow_notifications",
+    "Value": "通知を許可します。"
+  },
+  {
+    "Key": "id_work_offers",
+    "Value": "仕事のオファー"
+  },
+  {
+    "Key": "id_before_shift",
+    "Value": "シフト前に"
+  },
+  {
+    "Key": "id_time_before_shift",
+    "Value": "シフト前に時間"
+  },
+  {
+    "Key": "id_shift_duration",
+    "Value": "シフトの期間"
+  },
+  {
+    "Key": "id_request_change",
+    "Value": "変更を要求します。"
+  },
+  {
+    "Key": "id_alerts",
+    "Value": "アラート"
+  },
+  {
+    "Key": "id_accept",
+    "Value": "受け入れる"
+  },
+  {
+    "Key": "id_your_password_has_been_reset_successfully",
+    "Value": "あなたのパスワードはリセットされました。"
+  },
+  {
+    "Key": "id_work_preferences_was_successfully_saved",
+    "Value": "作品の設定は正常に保存されました"
+  },
+  {
+    "Key": "id_request_sent",
+    "Value": "送信される要求"
+  },
+  {
+    "Key": "Message",
+    "Value": "メッセージ"
+  },
+  {
+    "Key": "id_archive",
+    "Value": "私のアーカイブ"
+  },
+  {
+    "Key": "id_otto_provider_is_not_available",
+    "Value": "オットー プロバイダーは使用できません。"
+  },
+  {
+    "Key": "id_terms_and_conditions",
+    "Value": "利用規約・条件"
+  },
+  {
+    "Key": "id_current",
+    "Value": "電流"
+  },
+  {
+    "Key": "id_settings",
+    "Value": "設定"
+  },
+  {
+    "Key": "id_confirm_response",
+    "Value": "応答を確認します。"
+  },
+  {
+    "Key": "id_delete_message",
+    "Value": "メッセージを削除します。"
+  },
+  {
+    "Key": "id_delete",
+    "Value": "削除"
+  },
+  {
+    "Key": "id_push_notifications",
+    "Value": "プッシュ通知"
+  },
+  {
+    "Key": "id_enter_company_name",
+    "Value": "会社名を入力します。"
+  },
+  {
+    "Key": "id_please_wait",
+    "Value": "お待ちください"
+  },
+  {
+    "Key": "id_loading",
+    "Value": "読み込み"
+  },
+  {
+    "Key": "Week",
+    "Value": "週"
+  },
+  {
+    "Key": "id_sms",
+    "Value": "SMS"
+  },
+  {
+    "Key": "id_yesterday",
+    "Value": "昨日"
+  },
+  {
+    "Key": "id_older",
+    "Value": "古い"
+  },
+  {
+    "Key": "id_yes_submit",
+    "Value": "はい、提出します。"
+  },
+  {
+    "Key": "id_new_request",
+    "Value": "新しい要求"
+  },
+  {
+    "Key": "id_available_for_overtime",
+    "Value": "残業のため利用可能です"
+  },
+  {
+    "Key": "id_update_password",
+    "Value": "パスワードの更新"
+  },
+  {
+    "Key": "id_logged_out",
+    "Value": "ログアウト"
+  },
+  {
+    "Key": "id_logged_out_due_to_inactivity",
+    "Value": "あなたは非アクティブのためログアウトしました。もう一度ログインをしてください。"
+  },
+  {
+    "Key": "id_go_to_login",
+    "Value": "ログインへ"
+  },
+  {
+    "Key": "id_submit_request",
+    "Value": "要求を提出ですか。"
+  },
+  {
+    "Key": "id_no_new_notifications",
+    "Value": "新しい通知を今持っていません。"
+  },
+  {
+    "Key": "Delete",
+    "Value": "削除"
+  },
+  {
+    "Key": "New",
+    "Value": "新機能"
+  },
+  {
+    "Key": "id_work_notifications",
+    "Value": "作業通知"
+  },
+  {
+    "Key": "id_shift_notifications",
+    "Value": "シフトの通知"
+  },
+  {
+    "Key": "id_company_id",
+    "Value": "会社 ID"
+  },
+  {
+    "Key": "id_invalid_company_id",
+    "Value": "無効な ID を入った"
+  },
+  {
+    "Key": "id_otto_button_try-again",
+    "Value": "もう一度やり直してください"
+  },
+  {
+    "Key": "Reset",
+    "Value": "リセット"
+  },
+  {
+    "Key": "Select",
+    "Value": "選択してください。"
+  },
+  {
+    "Key": "field_cannot_be_blank",
+    "Value": "フィールドは空白にできません。"
+  },
+  {
+    "Key": "id_processing",
+    "Value": "処理"
+  },
+  {
+    "Key": "id_discard_request",
+    "Value": "要求を破棄しますか。"
+  },
+  {
+    "Key": "id_confirm_discard_request",
+    "Value": "進行中の編集があります。あなたはそれを破棄してもよろしいですか。"
+  },
+  {
+    "Key": "id_new_shift_duration",
+    "Value": "id_new_shift_duration"
+  },
+  {
+    "Key": "day",
+    "Value": "日"
+  },
+  {
+    "Key": "password_and_confirm_password_must_match",
+    "Value": "パスワードとパスワードの確認入力と一致する必要があります。"
+  },
+  {
+    "Key": "id_incorrect_password",
+    "Value": "パスワードが正しくありません。"
+  },
+  {
+    "Key": "id_password_updated",
+    "Value": "パスワードを更新"
+  },
+  {
+    "Key": "applyButton",
+    "Value": "適用"
+  },
+  {
+    "Key": "id_how_would_you_like_to_edit_your_time?",
+    "Value": "どのようにあなたの時間を編集しますか。"
+  },
+  {
+    "Key": "id_split_shift_and_move_hours",
+    "Value": "分割シフトと移動時間"
+  },
+  {
+    "Key": "id_just_drop_the_hours",
+    "Value": "ちょうど時間をドロップします。"
+  },
+  {
+    "Key": "DescName1F7E9252-7347-47DA-9442-BF998D564B2C",
+    "Value": "時間をお"
+  },
+  {
+    "Key": "id_your_bug_was_submitted_successfully_thanks_for_your_input.",
+    "Value": "バグの提出"
+  },
+  {
+    "Key": "id_error_getting_event_definition",
+    "Value": "取得イベント定義にエラーが発生しました。"
+  },
+  {
+    "Key": "id_error_renewing_account__credentials",
+    "Value": "アカウントの資格情報を更新中にエラーが発生しました。"
+  },
+  {
+    "Key": "id_error_getting_provider_instance",
+    "Value": "プロバイダー インスタンスを取得エラーが発生しました。"
+  },
+  {
+    "Key": "id_error_getting_provider_definition",
+    "Value": "プロバイダー定義の取得エラーが発生しました。"
+  },
+  {
+    "Key": "id_error_getting_google_play_service",
+    "Value": "このデバイスは、Google プレイ サービスによってサポートされていません。"
+  },
+  {
+    "Key": "id_expecting_sas",
+    "Value": "SaS を生成する例外:"
+  },
+  {
+    "Key": "id_fill_required_credentials",
+    "Value": "入力が無効です。すべての必須フィールドに記入してください。"
+  },
+  {
+    "Key": "id_error_making_request",
+    "Value": "あなたの要求の発行中にエラーが発生しました。後でもう一度試してください。"
+  },
+  {
+    "Key": "id_error_getting_system_settings",
+    "Value": "システム設定の受信エラーです。"
+  },
+  {
+    "Key": "id_error_getting_account_credentials",
+    "Value": "アカウントの資格情報を取得中にエラーが発生しました。"
+  },
+  {
+    "Key": "id_error_renew_account_credentials",
+    "Value": "アカウントの資格情報を更新中にエラーが発生しました"
+  },
+  {
+    "Key": "id_error_checking_account_credentials",
+    "Value": "当座預金アカウント資格情報エラーが発生しました。"
+  },
+  {
+    "Key": "id_shift_already_started",
+    "Value": "シフトが始まっています。"
+  },
+  {
+    "Key": "id_set_email",
+    "Value": "メール アドレスを入力します。"
+  },
+  {
+    "Key": "Hours",
+    "Value": "時間"
+  },
+  {
+    "Key": "id_minute",
+    "Value": "分"
+  },
+  {
+    "Key": "None",
+    "Value": "なし"
+  },
+  {
+    "Key": "id_request_details",
+    "Value": "要求の詳細"
+  },
+  {
+    "Key": "AM",
+    "Value": "午前"
+  },
+  {
+    "Key": "PM",
+    "Value": "午後"
+  },
+  {
+    "Key": "TermsAndConditions_lblPageTitle",
+    "Value": "利用規約"
+  },
+  {
+    "Key": "decline",
+    "Value": "減少"
+  },
+  {
+    "Key": "id_min",
+    "Value": "分"
+  },
+  {
+    "Key": "id_hr",
+    "Value": "人事"
+  },
+  {
+    "Key": "id_split_and_move_hours",
+    "Value": "分割し、時間に移動"
+  },
+  {
+    "Key": "id_we_are_unable_to_connect_to_the_specified_company_name",
+    "Value": "指定した会社名に接続することはできません。"
+  },
+  {
+    "Key": "id_not_authorized",
+    "Value": "権限がありません。管理者にお問い合わせください。"
+  },
+  {
+    "Key": "id_token_not_correct",
+    "Value": "トークンが正しくありません。もう一度ログインをしてください。"
+  },
+  {
+    "Key": "id_select_where_to_split",
+    "Value": "分割する位置を選択します。"
+  },
+  {
+    "Key": "id_select_where_to_move",
+    "Value": "移動先を選択します。"
+  },
+  {
+    "Key": "id_summary",
+    "Value": "概要"
+  },
+  {
+    "Key": "id_request",
+    "Value": "要求"
+  },
+  {
+    "Key": "id_unable_to_fetch_messages",
+    "Value": "メッセージをフェッチできません。"
+  },
+  {
+    "Key": "id_splitting_from",
+    "Value": "を分割"
+  },
+  {
+    "Key": "id_moving_to",
+    "Value": "移動"
+  },
+  {
+    "Key": "id_time",
+    "Value": "時間"
+  },
+  {
+    "Key": "id_duration",
+    "Value": "期間"
+  },
+  {
+    "Key": "id_placing",
+    "Value": "配置します。"
+  },
+  {
+    "Key": "id_error_getting_terms_and_condition",
+    "Value": "規約と条件を受信のエラーです。"
+  },
+  {
+    "Key": "id_splitting",
+    "Value": "分割"
+  },
+  {
+    "Key": "id_adding",
+    "Value": "追加します。"
+  },
+  {
+    "Key": "id_start_time_less_end_time",
+    "Value": "開始時刻は終了時刻よりも少ないはずです。"
+  },
+  {
+    "Key": "id_editing",
+    "Value": "編集"
+  },
+  {
+    "Key": "id_undo",
+    "Value": "元に戻す"
+  },
+  {
+    "Key": "id_retry",
+    "Value": "再試行"
+  },
+  {
+    "Key": "id_you_answered",
+    "Value": "答えたら"
+  },
+  {
+    "Key": "id_there_was_an_error_when_sending_your_response",
+    "Value": "あなたの応答を送信するときにエラーが発生しました。"
+  },
+  {
+    "Key": "id_add_shift",
+    "Value": "Shift キーを追加します。"
+  },
+  {
+    "Key": "id_minimum_shift_length_title",
+    "Value": "最小移動距離"
+  },
+  {
+    "Key": "id_minimum_shift_length_message",
+    "Value": "シフトは、短いにすることはできません。全体のシフトを別の日に移動することが、ただし、できます。"
+  },
+  {
+    "Key": "id_midnight_shift_title",
+    "Value": "深夜シフト"
+  },
+  {
+    "Key": "id_midnight_shift_message",
+    "Value": "深夜シフトを編集することはできません。"
+  },
+  {
+    "Key": "id_set_to_minimum",
+    "Value": "最小に設定します。"
+  },
+  {
+    "Key": "id_select_entire_shift",
+    "Value": "全体のシフトを選択します。"
+  },
+  {
+    "Key": "id_duration_must_be_between_1_and_24_hours",
+    "Value": "期間が 1 ~ 24 時間する必要があります。"
+  },
+  {
+    "Key": "id_error_occour_while_refreshing_page",
+    "Value": "ページの更新中にエラーが発生しました。"
+  },
+  {
+    "Key": "id_error_in_receiving_messege",
+    "Value": "エラー メッセージを受信します。"
+  },
+  {
+    "Key": "id_invalid_username_or_password",
+    "Value": "無効なユーザー名またはパスワード。"
+  },
+  {
+    "Key": "id_unable_to_authenticate_user",
+    "Value": "ユーザーを認証できません。"
+  },
+  {
+    "Key": "Running_Late",
+    "Value": "遅れてください。"
+  },
+  {
+    "Key": "Out_Sick",
+    "Value": "病欠"
+  },
+  {
+    "Key": "Request_VTO",
+    "Value": "VTO を要求します。"
+  },
+  {
+    "Key": "Request_VOT",
+    "Value": "VOT の要求"
+  },
+  {
+    "Key": "Message_to_Supervisor",
+    "Value": "監督へのメッセージ"
+  },
+  {
+    "Key": "Note_to_Manager",
+    "Value": "マネージャーへの注意"
+  },
+  {
+    "Key": "User_List",
+    "Value": "ユーザー リスト"
+  },
+  {
+    "Key": "change_to_different_time",
+    "Value": "別の時間へ変更します。"
+  },
+  {
+    "Key": "id_are_you_sure_want_to_delete_message",
+    "Value": "このメッセージを削除するよろしいですか。"
+  },
+  {
+    "Key": "Minutes_Running_Late",
+    "Value": "分遅れて"
+  },
+  {
+    "Key": "id_request_not_sent",
+    "Value": "リクエストは送信されません。"
+  }
+]

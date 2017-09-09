@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:layout_weight="1"
+                            android:lines="1"
+                            android:text="@string/add_entry_text"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp" />
+
+                        <TextView
+                            android:id="@+id/total_pass"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:layout_weight="1"
+                            android:lines="1"
+                            android:text="@string/total_passwa"
+                            android:textColor="@color/colorPrimaryDark"
+                            android:textSize="20sp" />
+
+                    </LinearLayout>
+
+                    <EditText
+                        android:id="@+id/ed_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/activity_horizontal_margin"
+                        android:background="@drawable/edit_text_bg"
+                        android:hint="Title"
+                        android:textColorHint="@android:color/white"
+                        android:maxLines="1"
+                        android:padding="@dimen/edit_text_left_padding" />
+
+                    <EditText
+                        android:id="@+id/ed_username"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/edit_text_vertical_margin"
+                        android:textColorHint="@android:color/white"
+                        android:background="@drawable/edit_text_bg"
+                        android:hint="Username"
+                        android:maxLines="1"
+                        android:padding="@dimen/edit_text_left_padding" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/edit_text_vertical_margin">
+
+                        <EditText
+                            android:id="@+id/ed_password"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColorHint="@android:color/white"
+                            android:background="@drawable/edit_text_bg"
+                            android:hint="Password"
+                            android:maxLines="1"
+                            android:padding="@dimen/edit_text_left_padding" />
+
+                        <ImageView
+                            android:id="@+id/iv_show_password"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="10dp"
+                            android:src="@android:drawable/ic_menu_view" />
+                    </RelativeLayout>
+
+                    <EditText
+                        android:id="@+id/ed_other"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/edit_text_vertical_margin"
+                        android:visibility="gone"
+                        android:background="@drawable/edit_text_bg"
+                        android:hint="Other"
+                        android:maxLines="1"
+                        android:padding="@dimen/edit_text_left_padding" />
+
+                    <TextView
+                        android:id="@+id/btn_add"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_marginTop="@dimen/edit_text_vertical_margin"
+                        android:lines="1"
+                        android:paddingBottom="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="10dp"
+                        android:text="@string/btn_add"
+                        android:textColor="@android:color/white"
+                        android:textSize="20sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginBottom="30dp"
+                        android:layout_marginTop="70dp"
+                        android:background="@android:color/white" />
+
+                    <TextView
+                        android:id="@+id/tv_view_password"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_horizontal"
+                        android:lines="1"
+                        android:text="@string/view_your_passwords"
+                        android:textColor="@android:color/white"
+                        android:textSize="20sp" />
+
+                    <RelativeLayout
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/activity_horizontal_margin"
+                        android:background="@drawable/pin_bg">
+
+                        <TextView
+                            android:id="@+id/ed_user_pin"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#00000000"
+                            android:text="@string/enter_pin"
+                            android:maxLines="1"
+                            android:padding="@dimen/edit_text_left_padding"
+                            android:textSize="20sp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+
+       <!-- <TextView
+            android:id="@+id/tv_reset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:background="@android:color/white"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Reset"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp" />-->
+    </RelativeLayout>
+</LinearLayout>

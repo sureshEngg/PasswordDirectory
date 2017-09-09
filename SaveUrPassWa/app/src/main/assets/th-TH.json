@@ -1,0 +1,1102 @@
+[
+  {
+    "Key": "id_onboarding_text_1",
+    "Value": "เมื่อมีข้อสงสัยเกี่ยวกับตารางเวลา"
+  },
+  {
+    "Key": "id_onboarding_text_2",
+    "Value": "หรือเมื่อมีเหตุการณ์ใดเกิดขึ้น"
+  },
+  {
+    "Key": "id_onboarding_text_3",
+    "Value": "เมื่อรู้สึกไม่สบาย"
+  },
+  {
+    "Key": "id_onboarding_text_4",
+    "Value": "หรือเมื่อถึงเวลาต้องดูแลตัวเอง"
+  },
+  {
+    "Key": "id_next",
+    "Value": "ถัดไป"
+  },
+  {
+    "Key": "id_done",
+    "Value": "เสร็จแล้ว"
+  },
+  {
+    "Key": "id_skip",
+    "Value": "ข้าม"
+  },
+  {
+    "Key": "Username",
+    "Value": "ชื่อผู้ใช้"
+  },
+  {
+    "Key": "Password",
+    "Value": "รหัสผ่าน"
+  },
+  {
+    "Key": "id_company",
+    "Value": "บริษัท"
+  },
+  {
+    "Key": "Login",
+    "Value": "ล็อกอิน"
+  },
+  {
+    "Key": "id_use_touch_id",
+    "Value": "ใช้ Touch ID"
+  },
+  {
+    "Key": "Error",
+    "Value": "ข้อผิดพลาด"
+  },
+  {
+    "Key": "id_try_again",
+    "Value": "ลองอีกครั้ง"
+  },
+  {
+    "Key": "id_okay",
+    "Value": "ตกลง"
+  },
+  {
+    "Key": "Cancel",
+    "Value": "ยกเลิก"
+  },
+  {
+    "Key": "id_dismiss",
+    "Value": "ยกเลิก"
+  },
+  {
+    "Key": "SystemProfileForm_lblSettings",
+    "Value": "การตั้งค่า"
+  },
+  {
+    "Key": "id_missing_information",
+    "Value": "ข้อมูลไม่ครบ"
+  },
+  {
+    "Key": "id_some_of_the_required_fields_are_empty",
+    "Value": "ช่องข้อมูลบังคับบางช่องยังว่างอยู่"
+  },
+  {
+    "Key": "id_incorrect_username_password",
+    "Value": "ชื่อผู้ใช้ / ชุดของรหัสผ่านที่คุณป้อนไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_you_have_entered_an_invalid_company_ID",
+    "Value": "ID บริษัทที่ป้อนไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_please_accept_terms_and_conditions_to_login",
+    "Value": "โปรดยอมรับข้อกำหนดและเงื่อนไขเพื่อล็อกอิน"
+  },
+  {
+    "Key": "id_touch_id",
+    "Value": "TouchID"
+  },
+  {
+    "Key": "id_please_authenticate_using_TouchID",
+    "Value": "โปรดยืนยันการใช้ TouchID"
+  },
+  {
+    "Key": "id_The_original_user_of_this_app_must_login_and_disable_TouchID_before_you_can_login_on_this_device",
+    "Value": "ผู้ใช้เดิมของแอปนี้ต้องล็อกอินและปิดการใช้งาน TouchID ก่อนที่คุณจะสามารถล็อกอินเข้าสู่ระบบของอุปกรณ์นี้ "
+  },
+  {
+    "Key": "id_this_device_does_not_support_touch_id",
+    "Value": "อุปกรณ์นี้ไม่รองรับการใช้ Touch ID"
+  },
+  {
+    "Key": "id_please_enable_touch_id_on_your_device",
+    "Value": "โปรดเปิดใช้ Touch ID บนอุปกรณ์ของคุณ"
+  },
+  {
+    "Key": "id_no_internet_connection",
+    "Value": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต"
+  },
+  {
+    "Key": "id_mobile_network_issue",
+    "Value": "ปัญหาเครือข่าย"
+  },
+  {
+    "Key": "id_it_looks_like_there_are_some_issues_connecting_with_your_network",
+    "Value": "อาจมีปัญหาในการเชื่อมต่อกับเครือข่ายของคุณ ตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง"
+  },
+  {
+    "Key": "id_confirm_password",
+    "Value": "ยืนยันรหัสผ่านใหม่"
+  },
+  {
+    "Key": "New_Password",
+    "Value": "รหัสผ่านใหม่"
+  },
+  {
+    "Key": "Mobile_Phone",
+    "Value": "โทรศัพท์มือถือ"
+  },
+  {
+    "Key": "sms_text",
+    "Value": "ข้อความ/SMS"
+  },
+  {
+    "Key": "Mon",
+    "Value": "จ."
+  },
+  {
+    "Key": "Tue",
+    "Value": "อ."
+  },
+  {
+    "Key": "Wed",
+    "Value": "พ."
+  },
+  {
+    "Key": "Thu",
+    "Value": "พฤ."
+  },
+  {
+    "Key": "Fri",
+    "Value": "ศ."
+  },
+  {
+    "Key": "Sat",
+    "Value": "ส."
+  },
+  {
+    "Key": "Sun",
+    "Value": "อา."
+  },
+  {
+    "Key": "Requests",
+    "Value": "คำขอ"
+  },
+  {
+    "Key": "Preferences",
+    "Value": "การตั้งค่าที่ต้องการ"
+  },
+  {
+    "Key": "Change_Password",
+    "Value": "เปลี่ยนรหัสผ่าน"
+  },
+  {
+    "Key": "Submit",
+    "Value": "นำส่ง"
+  },
+  {
+    "Key": "Name",
+    "Value": "ชื่อ"
+  },
+  {
+    "Key": "id_log_out",
+    "Value": "ออกจากระบบ"
+  },
+  {
+    "Key": "Start_Time",
+    "Value": "เวลาเริ่มต้น"
+  },
+  {
+    "Key": "End_Time",
+    "Value": "เวลาสิ้นสุด"
+  },
+  {
+    "Key": "id_schedule",
+    "Value": "ตารางเวลา"
+  },
+  {
+    "Key": "Login_Id",
+    "Value": " ID ล็อกอิน"
+  },
+  {
+    "Key": "id_current_password",
+    "Value": "รหัสผ่านปัจจุบัน"
+  },
+  {
+    "Key": "Today",
+    "Value": "วันนี้"
+  },
+  {
+    "Key": "id_january",
+    "Value": "มกราคม"
+  },
+  {
+    "Key": "id_february",
+    "Value": "กุมภาพันธ์"
+  },
+  {
+    "Key": "id_march",
+    "Value": "มีนาคม"
+  },
+  {
+    "Key": "id_april",
+    "Value": "เมษายน"
+  },
+  {
+    "Key": "id_may",
+    "Value": "พฤษภาคม"
+  },
+  {
+    "Key": "id_june",
+    "Value": "มิถุนายน"
+  },
+  {
+    "Key": "id_july",
+    "Value": "กรกฎาคม"
+  },
+  {
+    "Key": "id_august",
+    "Value": "สิงหาคม"
+  },
+  {
+    "Key": "id_september",
+    "Value": "กันยายน"
+  },
+  {
+    "Key": "id_october",
+    "Value": "ตุลาคม"
+  },
+  {
+    "Key": "id_november",
+    "Value": "พฤศจิกายน"
+  },
+  {
+    "Key": "id_december",
+    "Value": "ธันวาคม"
+  },
+  {
+    "Key": "Sunday",
+    "Value": "วันอาทิตย์"
+  },
+  {
+    "Key": "Monday",
+    "Value": "วันจันทร์"
+  },
+  {
+    "Key": "Tuesday",
+    "Value": "วันอังคาร"
+  },
+  {
+    "Key": "Wednesday",
+    "Value": "วันพุธ"
+  },
+  {
+    "Key": "Thursday",
+    "Value": "วันพฤหัสบดี"
+  },
+  {
+    "Key": "Friday",
+    "Value": "วันศุกร์"
+  },
+  {
+    "Key": "Saturday",
+    "Value": "วันเสาร์"
+  },
+  {
+    "Key": "email_address",
+    "Value": "ที่อยู่อีเมล"
+  },
+  {
+    "Key": "id_enter_email_address",
+    "Value": "ป้อนที่อยู่อีเมล"
+  },
+  {
+    "Key": "email",
+    "Value": "อีเมล"
+  },
+  {
+    "Key": "Save",
+    "Value": "บันทึก"
+  },
+  {
+    "Key": "id_enter_phone_number",
+    "Value": "ป้อนหมายเลขโทรศัพท์"
+  },
+  {
+    "Key": "id_mobile_phone_number",
+    "Value": "หมายเลขโทรศัพท์มือถือ"
+  },
+  {
+    "Key": "id_invalid_email_address",
+    "Value": "ที่อยู่อีเมลไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_invalid_phone_number",
+    "Value": "หมายเลขโทรศัพท์ไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_make_more_changes",
+    "Value": "เปลี่ยนแปลเพิ่มเติม"
+  },
+  {
+    "Key": "id_go_to_preference",
+    "Value": "ไปที่การตั้งค่า"
+  },
+  {
+    "Key": "id_work_preferences_saved",
+    "Value": "บันทึกการตั้งค่างานแล้ว"
+  },
+  {
+    "Key": "id_provider_is_not_available",
+    "Value": "ผู้ให้บริการไม่พร้อมให้บริการ"
+  },
+  {
+    "Key": "id_you_do_not_have_permission_to_view_requests",
+    "Value": "คุณไม่ได้รับอนุญาตให้ดูคำขอ"
+  },
+  {
+    "Key": "id_wrong_format",
+    "Value": "รูปแบบไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_data_is_in_wrong_format",
+    "Value": "ข้อมูลอยู่ในรูปแบบที่ไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_allow_App_Notifications",
+    "Value": "อนุญาตการแจ้งเตือนของแอป"
+  },
+  {
+    "Key": "id_notification_schedule",
+    "Value": "ตารางเวลาการแจ้งเตือน"
+  },
+  {
+    "Key": "id_work_preferences",
+    "Value": "การตั้งค่างาน"
+  },
+  {
+    "Key": "id_use_touchid_to_login",
+    "Value": "ใช้ TouchID เพื่อล็อกอิน"
+  },
+  {
+    "Key": "id_you_will_only_receive_notifications_of_the_types_that_you_want_on_the_days_that_you_choose",
+    "Value": "คุณจะได้รับเฉพาะการแจ้งเตือนของประเภทที่คุณต้องการ ในวันที่คุณเลือกเท่านั้น"
+  },
+  {
+    "Key": "id_please_enter_a_valid_email_address_before_enabling",
+    "Value": "โปรดป้อนที่อยู่อีเมลที่ถูกต้องก่อนเปิดใช้"
+  },
+  {
+    "Key": "id_Please_enter_a_valid_mobile_phone_number_before_enabling",
+    "Value": "โปรดป้อนหมายเลขโทรศัพท์มือถือที่ถูกต้องก่อนเปิดใช้"
+  },
+  {
+    "Key": "id_success",
+    "Value": "สำเร็จ"
+  },
+  {
+    "Key": "id_Your_request_has_been_sent_successfully",
+    "Value": "ส่งคำขอของคุณเรียบร้อยแล้ว"
+  },
+  {
+    "Key": "id_You_have_an_edit_in_progress.Are_you_sure_you_want_to_discard_it",
+    "Value": "มีการแก้ไขที่ดำเนินการค้างอยู่ แน่ใจหรือไม่ว่าต้องการยกเลิก"
+  },
+  {
+    "Key": "id_Yes_Discard",
+    "Value": "ใช่ ยกเลิก"
+  },
+  {
+    "Key": "id_Keep_Editing",
+    "Value": "แก้ไขต่อ"
+  },
+  {
+    "Key": "id_Failed",
+    "Value": "ล้มเหลว"
+  },
+  {
+    "Key": "id_Cannot_generate_event_at_this_moment",
+    "Value": "ไม่สามารถสร้างข้อมูลกิจกรรมได้ในขณะนี้"
+  },
+  {
+    "Key": "id_Your_request_was_successfully_submitted._You_will_receive_a_confirmation_message_if_it_is_approved",
+    "Value": "ส่งคำขอของคุณเรียบร้อยแล้ว คุณจะได้รับข้อความยืนยัน หากคำขอได้รับการอนุมัติ"
+  },
+  {
+    "Key": "id_Go_to_Schedule",
+    "Value": "ไปที่ \"ตารางเวลา\""
+  },
+  {
+    "Key": "id_shift_has_already_started",
+    "Value": "กะการทำงานได้เริ่มต้นแล้ว"
+  },
+  {
+    "Key": "minutes",
+    "Value": "นาที"
+  },
+  {
+    "Key": "id_Work",
+    "Value": "ทำงาน"
+  },
+  {
+    "Key": "id_session_timeOut",
+    "Value": "หมดเวลาเซสชัน"
+  },
+  {
+    "Key": "id_your_session_has_been_timed_out.you_have_to_login_again",
+    "Value": "เซสชันของคุณหมดเวลาแล้ว ต้องล็อกอินอีกครั้ง"
+  },
+  {
+    "Key": "Search",
+    "Value": "ค้นหา"
+  },
+  {
+    "Key": "id_old_start_time",
+    "Value": "เวลาเริ่มต้นเดิม"
+  },
+  {
+    "Key": "id_old_end_time",
+    "Value": "เวลาสิ้นสุดเดิม"
+  },
+  {
+    "Key": "id_reset",
+    "Value": "รีเซ็ต"
+  },
+  {
+    "Key": "id_work_same_number_of_hours",
+    "Value": "ทำงานในจำนวนชั่วโมงเดียวกัน"
+  },
+  {
+    "Key": "id_your_info",
+    "Value": "ข้อมูลของคุณ"
+  },
+  {
+    "Key": "id_notifications",
+    "Value": "การแจ้งเตือน"
+  },
+  {
+    "Key": "id_security",
+    "Value": "การรักษาความปลอดภัย"
+  },
+  {
+    "Key": "id_more",
+    "Value": "เพิ่มเติม"
+  },
+  {
+    "Key": "id_enable_analytics_collection",
+    "Value": "เปิดใช้การเก็บรวบรวมการวิเคราะห์ข้อมูล"
+  },
+  {
+    "Key": "id_this_data_will_be_anonomously_shared_with_developers_to_improve_your_experience",
+    "Value": "จะแชร์ข้อมูลนี้โดยไม่เปิดเผยตัวตนกับนักพัฒนา เพื่อปรับปรุงประสบการณ์การใช้งานของคุณให้ดีขึ้น"
+  },
+  {
+    "Key": "id_Webhelp",
+    "Value": "ความช่วยเหลือสำหรับเว็บ"
+  },
+  {
+    "Key": "id_Submit_a_Bug",
+    "Value": "ส่งข้อบกพร่อง"
+  },
+  {
+    "Key": "id_User_Voice",
+    "Value": "เสียงผู้ใช้"
+  },
+  {
+    "Key": "id_the_current_password_that_you_entered_is_incorrect",
+    "Value": "รหัสผ่านปัจจุบันที่ป้อนไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_the_passwords_that_you_entered_do_not_match",
+    "Value": "รหัสผ่านที่ป้อนไม่ตรง"
+  },
+  {
+    "Key": "id_password_reset_failed_which_does_not_meet_requirement",
+    "Value": "รีเซ็ตรหัสผ่านไม่สำเร็จ ซึ่งไม่เป็นไปตามข้อกำหนด"
+  },
+  {
+    "Key": "id_apply_to_multiple_day",
+    "Value": "ใช้กับวันต่าง ๆ"
+  },
+  {
+    "Key": "Hour",
+    "Value": "ชั่วโมง"
+  },
+  {
+    "Key": "id_notification_preferences_saved",
+    "Value": "บันทึกการตั้งค่าของการแจ้งเตือนแล้ว"
+  },
+  {
+    "Key": "id_notification_preferences_was_successfully_saved",
+    "Value": "บันทึกการตั้งค่าการแจ้งเตือนเรียบร้อยแล้ว"
+  },
+  {
+    "Key": "id_notification_preference",
+    "Value": "การตั้งค่าการแจ้งเตือน"
+  },
+  {
+    "Key": "Back",
+    "Value": "ย้อนกลับ"
+  },
+  {
+    "Key": "id_date_time",
+    "Value": "วันที่/เวลา"
+  },
+  {
+    "Key": "id_date",
+    "Value": "วันที่"
+  },
+  {
+    "Key": "id_enter_text",
+    "Value": "ป้อนข้อความ"
+  },
+  {
+    "Key": "id_enter_number",
+    "Value": "ป้อนหมายเลข"
+  },
+  {
+    "Key": "Yes",
+    "Value": "ใช่"
+  },
+  {
+    "Key": "No",
+    "Value": "ไม่ใช่"
+  },
+  {
+    "Key": "id_would_you_like_to_use_TouchID_to_log_into_this_app_in_the_future",
+    "Value": "ต้องการใช้ TouchID เพื่อล็อกอินเข้าแอปนี้ในอนาคตหรือไม่"
+  },
+  {
+    "Key": "Edit",
+    "Value": "แก้ไข"
+  },
+  {
+    "Key": "Shift",
+    "Value": "กะงาน"
+  },
+  {
+    "Key": "id_edit_start_time",
+    "Value": "แก้ไขเวลาเริ่มต้น"
+  },
+  {
+    "Key": "id_edit_end_time",
+    "Value": "แก้ไขเวลาสิ้นสุด"
+  },
+  {
+    "Key": "id_available_for_work",
+    "Value": "สามารถเข้าทำงาน"
+  },
+  {
+    "Key": "id_allow_notifications",
+    "Value": "อนุญาตการแจ้งเตือน"
+  },
+  {
+    "Key": "id_work_offers",
+    "Value": "ข้อเสนองาน"
+  },
+  {
+    "Key": "id_before_shift",
+    "Value": "ก่อนกะงาน"
+  },
+  {
+    "Key": "id_time_before_shift",
+    "Value": "เวลาก่อนกะงาน"
+  },
+  {
+    "Key": "id_shift_duration",
+    "Value": "ระยะเวลาของกะงาน"
+  },
+  {
+    "Key": "id_request_change",
+    "Value": "Modification de requête"
+  },
+  {
+    "Key": "id_alerts",
+    "Value": "การแจ้งเตือน"
+  },
+  {
+    "Key": "id_accept",
+    "Value": "ยอมรับ"
+  },
+  {
+    "Key": "id_your_password_has_been_reset_successfully",
+    "Value": "รีเซ็ตรหัสผ่านเรียบร้อยแล้ว"
+  },
+  {
+    "Key": "id_work_preferences_was_successfully_saved",
+    "Value": "บันทึกการตั้งค่างานเรียบร้อยแล้ว"
+  },
+  {
+    "Key": "id_request_sent",
+    "Value": "ส่งการร้องขอ"
+  },
+  {
+    "Key": "Message",
+    "Value": "ข้อความ"
+  },
+  {
+    "Key": "id_archive",
+    "Value": "การเก็บถาวรของฉัน"
+  },
+  {
+    "Key": "id_otto_provider_is_not_available",
+    "Value": "ผู้ให้บริการของ Otto ไม่พร้อมให้บริการ"
+  },
+  {
+    "Key": "id_terms_and_conditions",
+    "Value": "ข้อกำหนดและเงื่อนไข"
+  },
+  {
+    "Key": "id_current",
+    "Value": "ปัจจุบัน"
+  },
+  {
+    "Key": "id_settings",
+    "Value": "การตั้งค่า"
+  },
+  {
+    "Key": "id_confirm_response",
+    "Value": "ยืนยันคำตอบ"
+  },
+  {
+    "Key": "id_delete_message",
+    "Value": "ลบข้อความ"
+  },
+  {
+    "Key": "id_delete",
+    "Value": "ลบ"
+  },
+  {
+    "Key": "id_push_notifications",
+    "Value": "การแจ้งเตือนแบบพุช"
+  },
+  {
+    "Key": "id_enter_company_name",
+    "Value": "ป้อนชื่อบริษัทของคุณ"
+  },
+  {
+    "Key": "id_please_wait",
+    "Value": "โปรดรอสักครู่"
+  },
+  {
+    "Key": "id_loading",
+    "Value": "กำลังโหลด"
+  },
+  {
+    "Key": "Week",
+    "Value": "สัปดาห์"
+  },
+  {
+    "Key": "id_sms",
+    "Value": "SMS"
+  },
+  {
+    "Key": "id_yesterday",
+    "Value": "เมื่อวานนี้"
+  },
+  {
+    "Key": "id_older",
+    "Value": "ที่เก่ากว่า"
+  },
+  {
+    "Key": "id_yes_submit",
+    "Value": "ใช่ นำส่ง"
+  },
+  {
+    "Key": "id_new_request",
+    "Value": "ขอใหม่"
+  },
+  {
+    "Key": "id_available_for_overtime",
+    "Value": "สามารถทำงานล่วงเวลา"
+  },
+  {
+    "Key": "id_update_password",
+    "Value": "ปรับปรุงรหัสผ่าน"
+  },
+  {
+    "Key": "id_logged_out",
+    "Value": "ที่ออกจากระบบ"
+  },
+  {
+    "Key": "id_logged_out_due_to_inactivity",
+    "Value": "คุณถูกนำออกไปจากระบบเนื่องจากไม่มีความเคลื่อนไหว โปรดล็อกอินอีกครั้ง"
+  },
+  {
+    "Key": "id_go_to_login",
+    "Value": "ไปที่การล็อกอิน"
+  },
+  {
+    "Key": "id_submit_request",
+    "Value": "ต้องการนำส่งคำขอหรือไม่"
+  },
+  {
+    "Key": "id_no_new_notifications",
+    "Value": "ไม่มีการแจ้งเตือนใหม่ในขณะนี้"
+  },
+  {
+    "Key": "Delete",
+    "Value": "ลบ"
+  },
+  {
+    "Key": "New",
+    "Value": "ใหม่"
+  },
+  {
+    "Key": "id_work_notifications",
+    "Value": "การแจ้งเตือนงาน"
+  },
+  {
+    "Key": "id_shift_notifications",
+    "Value": "การแจ้งเตือนกะงาน"
+  },
+  {
+    "Key": "id_company_id",
+    "Value": "รหัสบริษัท"
+  },
+  {
+    "Key": "id_invalid_company_id",
+    "Value": "คุณป้อน id บริษัทไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_otto_button_try-again",
+    "Value": "ลองอีกครั้ง"
+  },
+  {
+    "Key": "Reset",
+    "Value": "รีเซ็ต"
+  },
+  {
+    "Key": "Select",
+    "Value": "เลือก"
+  },
+  {
+    "Key": "field_cannot_be_blank",
+    "Value": "เขตข้อมูลต้องไม่ว่าง"
+  },
+  {
+    "Key": "id_processing",
+    "Value": "กำลังประมวลผล"
+  },
+  {
+    "Key": "id_discard_request",
+    "Value": "ต้องการยกเลิกคำขอหรือไม่"
+  },
+  {
+    "Key": "id_confirm_discard_request",
+    "Value": "มีการแก้ไขที่อยู่ระหว่างดำเนินการ แน่ใจหรือไม่ว่าต้องการยกเลิก"
+  },
+  {
+    "Key": "id_new_shift_duration",
+    "Value": "id_new_shift_duration"
+  },
+  {
+    "Key": "day",
+    "Value": "วัน"
+  },
+  {
+    "Key": "password_and_confirm_password_must_match",
+    "Value": "รหัสผ่านและยืนยันรหัสผ่านต้องตรงกัน"
+  },
+  {
+    "Key": "id_incorrect_password",
+    "Value": "รหัสผ่านไม่ถูกต้อง"
+  },
+  {
+    "Key": "id_password_updated",
+    "Value": "ปรับปรุงรหัสผ่านแล้ว"
+  },
+  {
+    "Key": "applyButton",
+    "Value": "นำไปใช้"
+  },
+  {
+    "Key": "id_how_would_you_like_to_edit_your_time?",
+    "Value": "ต้องการแก้ไขเวลาของคุณอย่างไร"
+  },
+  {
+    "Key": "id_split_shift_and_move_hours",
+    "Value": "แยกกะงานและย้ายชั่วโมง"
+  },
+  {
+    "Key": "id_just_drop_the_hours",
+    "Value": "แค่ลดจำนวนชั่วโมง"
+  },
+  {
+    "Key": "DescName1F7E9252-7347-47DA-9442-BF998D564B2C",
+    "Value": "*/3RDPARTYREQ/* - TIME OUT"
+  },
+  {
+    "Key": "id_your_bug_was_submitted_successfully_thanks_for_your_input.",
+    "Value": "นำส่งข้อผิดพลาดของคุณเรียบร้อยแล้ว ขอบคุณสำหรับข้อมูลที่มอบให้"
+  },
+  {
+    "Key": "id_error_getting_event_definition",
+    "Value": "เกิดข้อผิดพลาดในการรับคำจำกัดความของกิจกรรม"
+  },
+  {
+    "Key": "id_error_renewing_account__credentials",
+    "Value": "*/3RDPARTYREQ/* - An error occurred while renewing account credentials."
+  },
+  {
+    "Key": "id_error_getting_provider_instance",
+    "Value": "เกิดข้อผิดพลาดในการรับอินสแตนซ์ของผู้ให้บริการ"
+  },
+  {
+    "Key": "id_error_getting_provider_definition",
+    "Value": "เกิดข้อผิดพลาดในการรับคำจำกัดความของผู้ให้บริการ"
+  },
+  {
+    "Key": "id_error_getting_google_play_service",
+    "Value": "บริการของ Google Play ไม่รองรับการใช้งานอุปกรณ์นี้"
+  },
+  {
+    "Key": "id_expecting_sas",
+    "Value": "ข้อยกเว้นในการสร้าง SaS: "
+  },
+  {
+    "Key": "id_fill_required_credentials",
+    "Value": "ข้อมูลที่ป้อนไม่ถูกต้อง โปรดป้อนข้อมูลในช่องบังคับทุกช่อง"
+  },
+  {
+    "Key": "id_error_making_request",
+    "Value": "เกิดข้อผิดพลาดขณะดำเนินการคำขอของคุณ โปรดลองอีกครั้งในภายหลัง"
+  },
+  {
+    "Key": "id_error_getting_system_settings",
+    "Value": "ข้อผิดพลาดในการรับข้อมูลการตั้งค่าระบบ"
+  },
+  {
+    "Key": "id_error_getting_account_credentials",
+    "Value": "เกิดข้อผิดพลาดขณะรับข้อมูลประจำตัวของบัญชี"
+  },
+  {
+    "Key": "id_error_renew_account_credentials",
+    "Value": "เกิดข้อผิดพลาดขณะต่ออายุข้อมูลประจำตัวของบัญชี"
+  },
+  {
+    "Key": "id_error_checking_account_credentials",
+    "Value": "เกิดข้อผิดพลาดขณะตรวจสอบข้อมูลประจำตัวของบัญชี"
+  },
+  {
+    "Key": "id_shift_already_started",
+    "Value": "กะการทำงานได้เริ่มต้นแล้ว"
+  },
+  {
+    "Key": "id_set_email",
+    "Value": "ป้อนที่อยู่อีเมล"
+  },
+  {
+    "Key": "Hours",
+    "Value": "ชั่วโมง"
+  },
+  {
+    "Key": "id_minute",
+    "Value": "นาที"
+  },
+  {
+    "Key": "None",
+    "Value": "ไม่มี"
+  },
+  {
+    "Key": "id_request_details",
+    "Value": "ขอรายละเอียด"
+  },
+  {
+    "Key": "AM",
+    "Value": "*/3RDPARTYREQ/* - AM"
+  },
+  {
+    "Key": "PM",
+    "Value": "*/3RDPARTYREQ/* - PM"
+  },
+  {
+    "Key": "TermsAndConditions_lblPageTitle",
+    "Value": "ข้อกำหนดและเงื่อนไข"
+  },
+  {
+    "Key": "decline",
+    "Value": "ปฏิเสธ"
+  },
+  {
+    "Key": "id_min",
+    "Value": "*/3RDPARTYREQ/* - Min"
+  },
+  {
+    "Key": "id_hr",
+    "Value": "ชม."
+  },
+  {
+    "Key": "id_split_and_move_hours",
+    "Value": "แยกและย้ายชั่วโมง"
+  },
+  {
+    "Key": "id_we_are_unable_to_connect_to_the_specified_company_name",
+    "Value": "*/3RDPARTYREQ/* - We're unable to connect to the specified company name"
+  },
+  {
+    "Key": "id_not_authorized",
+    "Value": "*/3RDPARTYREQ/* - You are not authorized. Please contact admin."
+  },
+  {
+    "Key": "id_token_not_correct",
+    "Value": "*/3RDPARTYREQ/* - Token is not correct. Please login again"
+  },
+  {
+    "Key": "id_select_where_to_split",
+    "Value": "*/3RDPARTYREQ/* - Select where to split"
+  },
+  {
+    "Key": "id_select_where_to_move",
+    "Value": "*/3RDPARTYREQ/* - Select where to move"
+  },
+  {
+    "Key": "id_summary",
+    "Value": "*/3RDPARTYREQ/* - SUMMARY"
+  },
+  {
+    "Key": "id_request",
+    "Value": "*/3RDPARTYREQ/* - REQUEST"
+  },
+  {
+    "Key": "id_unable_to_fetch_messages",
+    "Value": "*/3RDPARTYREQ/* - Unable to fetch messages"
+  },
+  {
+    "Key": "id_splitting_from",
+    "Value": "*/3RDPARTYREQ/* - Splitting From"
+  },
+  {
+    "Key": "id_moving_to",
+    "Value": "*/3RDPARTYREQ/* - Moving To"
+  },
+  {
+    "Key": "id_time",
+    "Value": "*/3RDPARTYREQ/* - Time"
+  },
+  {
+    "Key": "id_duration",
+    "Value": "*/3RDPARTYREQ/* - Duration"
+  },
+  {
+    "Key": "id_placing",
+    "Value": "*/3RDPARTYREQ/* - Placing"
+  },
+  {
+    "Key": "id_error_getting_terms_and_condition",
+    "Value": "*/3RDPARTYREQ/* - Error in receiving terms and condition."
+  },
+  {
+    "Key": "id_splitting",
+    "Value": "*/3RDPARTYREQ/* - Splitting"
+  },
+  {
+    "Key": "id_adding",
+    "Value": "*/3RDPARTYREQ/* - Adding"
+  },
+  {
+    "Key": "id_start_time_less_end_time",
+    "Value": "*/3RDPARTYREQ/* - Start time should be less than end time."
+  },
+  {
+    "Key": "id_editing",
+    "Value": "*/3RDPARTYREQ/* - Editing"
+  },
+  {
+    "Key": "id_undo",
+    "Value": "*/3RDPARTYREQ/* - Undo"
+  },
+  {
+    "Key": "id_retry",
+    "Value": "*/3RDPARTYREQ/* - Retry"
+  },
+  {
+    "Key": "id_you_answered",
+    "Value": "*/3RDPARTYREQ/* - You answered"
+  },
+  {
+    "Key": "id_there_was_an_error_when_sending_your_response",
+    "Value": "*/3RDPARTYREQ/* - There was an error when sending your response."
+  },
+  {
+    "Key": "id_add_shift",
+    "Value": "*/3RDPARTYREQ/* - Add Shift"
+  },
+  {
+    "Key": "id_minimum_shift_length_title",
+    "Value": "*/3RDPARTYREQ/* - Minimum Shift Length"
+  },
+  {
+    "Key": "id_minimum_shift_length_message",
+    "Value": "*/3RDPARTYREQ/* - A shift cannot be that short. You can, however, choose to move the entire shift to another day."
+  },
+  {
+    "Key": "id_midnight_shift_title",
+    "Value": "*/3RDPARTYREQ/* - Midnight shift"
+  },
+  {
+    "Key": "id_midnight_shift_message",
+    "Value": "*/3RDPARTYREQ/* - You are not allowed to edit midnight shift."
+  },
+  {
+    "Key": "id_set_to_minimum",
+    "Value": "*/3RDPARTYREQ/* - SET TO MINIMUM"
+  },
+  {
+    "Key": "id_select_entire_shift",
+    "Value": "*/3RDPARTYREQ/* - SELECT ENTIRE SHIFT"
+  },
+  {
+    "Key": "id_duration_must_be_between_1_and_24_hours",
+    "Value": "*/3RDPARTYREQ/* - Duration must be between 1 and 24 hours"
+  },
+  {
+    "Key": "id_error_occour_while_refreshing_page",
+    "Value": "*/3RDPARTYREQ/* - An error occurred while refreshing the page."
+  },
+  {
+    "Key": "id_error_in_receiving_messege",
+    "Value": "*/3RDPARTYREQ/* - Error in receiving message."
+  },
+  {
+    "Key": "id_invalid_username_or_password",
+    "Value": "*/3RDPARTYREQ/* - Invalid username or password."
+  },
+  {
+    "Key": "id_unable_to_authenticate_user",
+    "Value": "*/3RDPARTYREQ/* - Unable to authenticate user."
+  },
+  {
+    "Key": "Running_Late",
+    "Value": "*/3RDPARTYREQ/* - Running Late"
+  },
+  {
+    "Key": "Out_Sick",
+    "Value": "*/3RDPARTYREQ/* - Out Sick"
+  },
+  {
+    "Key": "Request_VTO",
+    "Value": "*/3RDPARTYREQ/* - Request VTO"
+  },
+  {
+    "Key": "Request_VOT",
+    "Value": "*/3RDPARTYREQ/* - Request VOT"
+  },
+  {
+    "Key": "Message_to_Supervisor",
+    "Value": "*/3RDPARTYREQ/* - Message to Supervisor"
+  },
+  {
+    "Key": "Note_to_Manager",
+    "Value": "*/3RDPARTYREQ/* - Note to Manager"
+  },
+  {
+    "Key": "User_List",
+    "Value": "*/3RDPARTYREQ/* - User List"
+  },
+  {
+    "Key": "change_to_different_time",
+    "Value": "*/3RDPARTYREQ/* - Change to a different time"
+  },
+  {
+    "Key": "id_are_you_sure_want_to_delete_message",
+    "Value": "*/3RDPARTYREQ/* - Are you sure you want to delete this message?"
+  },
+  {
+    "Key": "Minutes_Running_Late",
+    "Value": "*/3RDPARTYREQ/* - Minutes Running Late"
+  },
+  {
+    "Key": "id_request_not_sent",
+    "Value": "*/3RDPARTYREQ/* - Request not sent"
+  }
+]

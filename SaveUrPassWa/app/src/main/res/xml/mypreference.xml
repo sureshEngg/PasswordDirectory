@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="0"
+        android:inputType="textUri"
+        android:key="version_number"
+        android:title="version_number" />
+</PreferenceScreen>

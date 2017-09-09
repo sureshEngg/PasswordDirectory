@@ -1,0 +1,1102 @@
+[
+  {
+    "Key": "id_onboarding_text_1",
+    "Value": "때 당신이 당신의 일정에 대해 궁금"
+  },
+  {
+    "Key": "id_onboarding_text_2",
+    "Value": "인생 경우 또는"
+  },
+  {
+    "Key": "id_onboarding_text_3",
+    "Value": "때 당신이 있어 기분이 좋지"
+  },
+  {
+    "Key": "id_onboarding_text_4",
+    "Value": "때 그것은 자신을 치료 시간입니다."
+  },
+  {
+    "Key": "id_next",
+    "Value": "다음"
+  },
+  {
+    "Key": "id_done",
+    "Value": "완료"
+  },
+  {
+    "Key": "id_skip",
+    "Value": "건너뛰기"
+  },
+  {
+    "Key": "Username",
+    "Value": "사용자 이름"
+  },
+  {
+    "Key": "Password",
+    "Value": "비밀 번호"
+  },
+  {
+    "Key": "id_company",
+    "Value": "회사"
+  },
+  {
+    "Key": "Login",
+    "Value": "로그인"
+  },
+  {
+    "Key": "id_use_touch_id",
+    "Value": "터치 ID를 사용 하 여"
+  },
+  {
+    "Key": "Error",
+    "Value": "오류"
+  },
+  {
+    "Key": "id_try_again",
+    "Value": "다시 시도"
+  },
+  {
+    "Key": "id_okay",
+    "Value": "그래"
+  },
+  {
+    "Key": "Cancel",
+    "Value": "취소"
+  },
+  {
+    "Key": "id_dismiss",
+    "Value": "기 각"
+  },
+  {
+    "Key": "SystemProfileForm_lblSettings",
+    "Value": "설정"
+  },
+  {
+    "Key": "id_missing_information",
+    "Value": "누락 된 정보"
+  },
+  {
+    "Key": "id_some_of_the_required_fields_are_empty",
+    "Value": "필수 필드의 일부는 빈"
+  },
+  {
+    "Key": "id_incorrect_username_password",
+    "Value": "사용자 이름 / 암호 조합을 입력 한 올바르지 않습니다."
+  },
+  {
+    "Key": "id_you_have_entered_an_invalid_company_ID",
+    "Value": "잘못 된 회사 ID 입력"
+  },
+  {
+    "Key": "id_please_accept_terms_and_conditions_to_login",
+    "Value": "로그인 약관 및 조건을 받아들이십시오"
+  },
+  {
+    "Key": "id_touch_id",
+    "Value": "TouchID"
+  },
+  {
+    "Key": "id_please_authenticate_using_TouchID",
+    "Value": "TouchID를 사용 하 여 인증 하시기 바랍니다."
+  },
+  {
+    "Key": "id_The_original_user_of_this_app_must_login_and_disable_TouchID_before_you_can_login_on_this_device",
+    "Value": "원래 사용자가 애플 리 케이이 션의 해야 합니다 로그인 및 사용 안 함 TouchID 하기 전에 로그인 할 수 있습니다이 장치에"
+  },
+  {
+    "Key": "id_this_device_does_not_support_touch_id",
+    "Value": "이 장치는 터치 ID를 지원 하지 않습니다."
+  },
+  {
+    "Key": "id_please_enable_touch_id_on_your_device",
+    "Value": "장치에 터치 ID를 활성화 하십시오"
+  },
+  {
+    "Key": "id_no_internet_connection",
+    "Value": "인터넷 연결"
+  },
+  {
+    "Key": "id_mobile_network_issue",
+    "Value": "네트워크 문제"
+  },
+  {
+    "Key": "id_it_looks_like_there_are_some_issues_connecting_with_your_network",
+    "Value": "그것은 일부의 문제를 네트워크에 연결 하는 것 같습니다. 연결을 확인 하 고 다시 시도 하십시오."
+  },
+  {
+    "Key": "id_confirm_password",
+    "Value": "새 암호 확인"
+  },
+  {
+    "Key": "New_Password",
+    "Value": "새 암호"
+  },
+  {
+    "Key": "Mobile_Phone",
+    "Value": "휴대 전화"
+  },
+  {
+    "Key": "sms_text",
+    "Value": "텍스트/SMS"
+  },
+  {
+    "Key": "Mon",
+    "Value": "월"
+  },
+  {
+    "Key": "Tue",
+    "Value": "화"
+  },
+  {
+    "Key": "Wed",
+    "Value": "결혼"
+  },
+  {
+    "Key": "Thu",
+    "Value": "목"
+  },
+  {
+    "Key": "Fri",
+    "Value": "(금)"
+  },
+  {
+    "Key": "Sat",
+    "Value": "토"
+  },
+  {
+    "Key": "Sun",
+    "Value": "태양"
+  },
+  {
+    "Key": "Requests",
+    "Value": "요청"
+  },
+  {
+    "Key": "Preferences",
+    "Value": "환경 설정"
+  },
+  {
+    "Key": "Change_Password",
+    "Value": "비밀 번호 변경"
+  },
+  {
+    "Key": "Submit",
+    "Value": "전송"
+  },
+  {
+    "Key": "Name",
+    "Value": "이름"
+  },
+  {
+    "Key": "id_log_out",
+    "Value": "로그 아웃"
+  },
+  {
+    "Key": "Start_Time",
+    "Value": "시작 시간"
+  },
+  {
+    "Key": "End_Time",
+    "Value": "종료 시간"
+  },
+  {
+    "Key": "id_schedule",
+    "Value": "일정"
+  },
+  {
+    "Key": "Login_Id",
+    "Value": "로그인 ID"
+  },
+  {
+    "Key": "id_current_password",
+    "Value": "현재 암호"
+  },
+  {
+    "Key": "Today",
+    "Value": "오늘"
+  },
+  {
+    "Key": "id_january",
+    "Value": "1 월"
+  },
+  {
+    "Key": "id_february",
+    "Value": "2 월"
+  },
+  {
+    "Key": "id_march",
+    "Value": "3 월"
+  },
+  {
+    "Key": "id_april",
+    "Value": "4 월"
+  },
+  {
+    "Key": "id_may",
+    "Value": "5 월"
+  },
+  {
+    "Key": "id_june",
+    "Value": "6 월"
+  },
+  {
+    "Key": "id_july",
+    "Value": "7 월"
+  },
+  {
+    "Key": "id_august",
+    "Value": "8 월"
+  },
+  {
+    "Key": "id_september",
+    "Value": "9 월"
+  },
+  {
+    "Key": "id_october",
+    "Value": "10 월"
+  },
+  {
+    "Key": "id_november",
+    "Value": "11 월"
+  },
+  {
+    "Key": "id_december",
+    "Value": "12 월"
+  },
+  {
+    "Key": "Sunday",
+    "Value": "일요일"
+  },
+  {
+    "Key": "Monday",
+    "Value": "월요일"
+  },
+  {
+    "Key": "Tuesday",
+    "Value": "화요일"
+  },
+  {
+    "Key": "Wednesday",
+    "Value": "수요일"
+  },
+  {
+    "Key": "Thursday",
+    "Value": "목요일"
+  },
+  {
+    "Key": "Friday",
+    "Value": "금요일"
+  },
+  {
+    "Key": "Saturday",
+    "Value": "토요일"
+  },
+  {
+    "Key": "email_address",
+    "Value": "이메일 주소"
+  },
+  {
+    "Key": "id_enter_email_address",
+    "Value": "이메일 주소를 입력"
+  },
+  {
+    "Key": "email",
+    "Value": "메일 주소"
+  },
+  {
+    "Key": "Save",
+    "Value": "저장"
+  },
+  {
+    "Key": "id_enter_phone_number",
+    "Value": "전화 번호 입력"
+  },
+  {
+    "Key": "id_mobile_phone_number",
+    "Value": "휴대 전화 번호"
+  },
+  {
+    "Key": "id_invalid_email_address",
+    "Value": "잘못 된 이메일 주소"
+  },
+  {
+    "Key": "id_invalid_phone_number",
+    "Value": "잘못 된 전화 번호"
+  },
+  {
+    "Key": "id_make_more_changes",
+    "Value": "더 많은 변경"
+  },
+  {
+    "Key": "id_go_to_preference",
+    "Value": "환경 설정에가 서"
+  },
+  {
+    "Key": "id_work_preferences_saved",
+    "Value": "작업 환경 설정 저장"
+  },
+  {
+    "Key": "id_provider_is_not_available",
+    "Value": "공급자는 사용할 수 없습니다."
+  },
+  {
+    "Key": "id_you_do_not_have_permission_to_view_requests",
+    "Value": "요청을 볼 권한이 없습니다."
+  },
+  {
+    "Key": "id_wrong_format",
+    "Value": "잘못 된 형식"
+  },
+  {
+    "Key": "id_data_is_in_wrong_format",
+    "Value": "데이터는 잘못 된 형식에"
+  },
+  {
+    "Key": "id_allow_App_Notifications",
+    "Value": "응용 프로그램 알림 허용"
+  },
+  {
+    "Key": "id_notification_schedule",
+    "Value": "알림 일정"
+  },
+  {
+    "Key": "id_work_preferences",
+    "Value": "작업 환경 설정"
+  },
+  {
+    "Key": "id_use_touchid_to_login",
+    "Value": "TouchID 로그인을 사용 하 여"
+  },
+  {
+    "Key": "id_you_will_only_receive_notifications_of_the_types_that_you_want_on_the_days_that_you_choose",
+    "Value": "만 선택 하는 일에 종류의 알림을 받게 됩니다."
+  },
+  {
+    "Key": "id_please_enter_a_valid_email_address_before_enabling",
+    "Value": "사용 하기 전에 유효한 이메일 주소를 입력 하십시오"
+  },
+  {
+    "Key": "id_Please_enter_a_valid_mobile_phone_number_before_enabling",
+    "Value": "사용 하기 전에 유효한 휴대 전화 번호를 입력 하십시오"
+  },
+  {
+    "Key": "id_success",
+    "Value": "성공"
+  },
+  {
+    "Key": "id_Your_request_has_been_sent_successfully",
+    "Value": "요청이는 성공적으로 전송 되었습니다."
+  },
+  {
+    "Key": "id_You_have_an_edit_in_progress.Are_you_sure_you_want_to_discard_it",
+    "Value": "진행 중인 편집을 해야합니다. 당신은 그것을 삭제 하 시겠습니까"
+  },
+  {
+    "Key": "id_Yes_Discard",
+    "Value": "예, 삭제"
+  },
+  {
+    "Key": "id_Keep_Editing",
+    "Value": "편집 계속"
+  },
+  {
+    "Key": "id_Failed",
+    "Value": "실패"
+  },
+  {
+    "Key": "id_Cannot_generate_event_at_this_moment",
+    "Value": "이 순간에서 이벤트를 생성할 수 없습니다."
+  },
+  {
+    "Key": "id_Your_request_was_successfully_submitted._You_will_receive_a_confirmation_message_if_it_is_approved",
+    "Value": "귀하의 요청을 성공적으로 제출 되었습니다. 그것이 승인 되 면 확인 메시지를 받게 됩니다."
+  },
+  {
+    "Key": "id_Go_to_Schedule",
+    "Value": "일정 이동"
+  },
+  {
+    "Key": "id_shift_has_already_started",
+    "Value": "변화는 이미 시작"
+  },
+  {
+    "Key": "minutes",
+    "Value": "분"
+  },
+  {
+    "Key": "id_Work",
+    "Value": "작업"
+  },
+  {
+    "Key": "id_session_timeOut",
+    "Value": "세션 제한 시간"
+  },
+  {
+    "Key": "id_your_session_has_been_timed_out.you_have_to_login_again",
+    "Value": "귀하의 세션이 초과 되었습니다. 다시 로그인을 해야합니다"
+  },
+  {
+    "Key": "Search",
+    "Value": "검색"
+  },
+  {
+    "Key": "id_old_start_time",
+    "Value": "오래 된 시작 시간"
+  },
+  {
+    "Key": "id_old_end_time",
+    "Value": "오래 된 종료 시간"
+  },
+  {
+    "Key": "id_reset",
+    "Value": "리셋"
+  },
+  {
+    "Key": "id_work_same_number_of_hours",
+    "Value": "작업 시간의 동일한 수"
+  },
+  {
+    "Key": "id_your_info",
+    "Value": "귀하의 정보"
+  },
+  {
+    "Key": "id_notifications",
+    "Value": "알림"
+  },
+  {
+    "Key": "id_security",
+    "Value": "보안"
+  },
+  {
+    "Key": "id_more",
+    "Value": "더"
+  },
+  {
+    "Key": "id_enable_analytics_collection",
+    "Value": "사용 분석 컬렉션"
+  },
+  {
+    "Key": "id_this_data_will_be_anonomously_shared_with_developers_to_improve_your_experience",
+    "Value": "이 데이터는 귀하의 경험을 개선 하기 위해 개발자와 공유 하는 anonomously 것"
+  },
+  {
+    "Key": "id_Webhelp",
+    "Value": "웹 도움말"
+  },
+  {
+    "Key": "id_Submit_a_Bug",
+    "Value": "버그 제출"
+  },
+  {
+    "Key": "id_User_Voice",
+    "Value": "사용자 음성"
+  },
+  {
+    "Key": "id_the_current_password_that_you_entered_is_incorrect",
+    "Value": "입력 한 현재 암호가 올바르지 않습니다."
+  },
+  {
+    "Key": "id_the_passwords_that_you_entered_do_not_match",
+    "Value": "입력 한 암호가 일치 하지 않습니다."
+  },
+  {
+    "Key": "id_password_reset_failed_which_does_not_meet_requirement",
+    "Value": "암호 재설정을 요구 사항을 충족 하지 않는 실패"
+  },
+  {
+    "Key": "id_apply_to_multiple_day",
+    "Value": "여러 일에 적용"
+  },
+  {
+    "Key": "Hour",
+    "Value": "시간"
+  },
+  {
+    "Key": "id_notification_preferences_saved",
+    "Value": "알림 환경 설정 저장"
+  },
+  {
+    "Key": "id_notification_preferences_was_successfully_saved",
+    "Value": "알림 환경 설정은 성공적으로 저장 되었습니다."
+  },
+  {
+    "Key": "id_notification_preference",
+    "Value": "알림 기본 설정"
+  },
+  {
+    "Key": "Back",
+    "Value": "뒤로"
+  },
+  {
+    "Key": "id_date_time",
+    "Value": "날짜/시간"
+  },
+  {
+    "Key": "id_date",
+    "Value": "날짜"
+  },
+  {
+    "Key": "id_enter_text",
+    "Value": "텍스트 입력"
+  },
+  {
+    "Key": "id_enter_number",
+    "Value": "번호 입력"
+  },
+  {
+    "Key": "Yes",
+    "Value": "예"
+  },
+  {
+    "Key": "No",
+    "Value": "없음"
+  },
+  {
+    "Key": "id_would_you_like_to_use_TouchID_to_log_into_this_app_in_the_future",
+    "Value": "TouchID를 사용 하 여 나중에이 응용 프로그램에 로그인 하 시겠습니까?"
+  },
+  {
+    "Key": "Edit",
+    "Value": "편집"
+  },
+  {
+    "Key": "Shift",
+    "Value": "시프트"
+  },
+  {
+    "Key": "id_edit_start_time",
+    "Value": "시작 시간 편집"
+  },
+  {
+    "Key": "id_edit_end_time",
+    "Value": "종료 시간 편집"
+  },
+  {
+    "Key": "id_available_for_work",
+    "Value": "작업에 사용할 수"
+  },
+  {
+    "Key": "id_allow_notifications",
+    "Value": "알림 허용"
+  },
+  {
+    "Key": "id_work_offers",
+    "Value": "일 제공"
+  },
+  {
+    "Key": "id_before_shift",
+    "Value": "이동 하기 전에"
+  },
+  {
+    "Key": "id_time_before_shift",
+    "Value": "교대 시간"
+  },
+  {
+    "Key": "id_shift_duration",
+    "Value": "근무 기간"
+  },
+  {
+    "Key": "id_request_change",
+    "Value": "변경 요청"
+  },
+  {
+    "Key": "id_alerts",
+    "Value": "경고"
+  },
+  {
+    "Key": "id_accept",
+    "Value": "받아"
+  },
+  {
+    "Key": "id_your_password_has_been_reset_successfully",
+    "Value": "암호를 성공적으로 재설정 했습니다."
+  },
+  {
+    "Key": "id_work_preferences_was_successfully_saved",
+    "Value": "작업 환경 설정 성공적으로 저장 되었습니다."
+  },
+  {
+    "Key": "id_request_sent",
+    "Value": "전송 요청"
+  },
+  {
+    "Key": "Message",
+    "Value": "메시지"
+  },
+  {
+    "Key": "id_archive",
+    "Value": "내 아카이브"
+  },
+  {
+    "Key": "id_otto_provider_is_not_available",
+    "Value": "오토 공급자는 사용할 수 없습니다."
+  },
+  {
+    "Key": "id_terms_and_conditions",
+    "Value": "용어 및 조건"
+  },
+  {
+    "Key": "id_current",
+    "Value": "전류"
+  },
+  {
+    "Key": "id_settings",
+    "Value": "설정"
+  },
+  {
+    "Key": "id_confirm_response",
+    "Value": "응답 확인"
+  },
+  {
+    "Key": "id_delete_message",
+    "Value": "메시지를 삭제"
+  },
+  {
+    "Key": "id_delete",
+    "Value": "삭제"
+  },
+  {
+    "Key": "id_push_notifications",
+    "Value": "푸시 알림"
+  },
+  {
+    "Key": "id_enter_company_name",
+    "Value": "귀하의 회사 이름을 입력합니다"
+  },
+  {
+    "Key": "id_please_wait",
+    "Value": "잠시만 기다려 주십시오"
+  },
+  {
+    "Key": "id_loading",
+    "Value": "로드"
+  },
+  {
+    "Key": "Week",
+    "Value": "주"
+  },
+  {
+    "Key": "id_sms",
+    "Value": "SMS"
+  },
+  {
+    "Key": "id_yesterday",
+    "Value": "어제"
+  },
+  {
+    "Key": "id_older",
+    "Value": "더 오래 된"
+  },
+  {
+    "Key": "id_yes_submit",
+    "Value": "네, 제출"
+  },
+  {
+    "Key": "id_new_request",
+    "Value": "새 요청"
+  },
+  {
+    "Key": "id_available_for_overtime",
+    "Value": "초과 작업 시간에 사용할 수"
+  },
+  {
+    "Key": "id_update_password",
+    "Value": "암호 업데이트"
+  },
+  {
+    "Key": "id_logged_out",
+    "Value": "로그 아웃"
+  },
+  {
+    "Key": "id_logged_out_due_to_inactivity",
+    "Value": "비활성으로 인해 밖으로 기록 했다. 다시 로그인을 하십시오."
+  },
+  {
+    "Key": "id_go_to_login",
+    "Value": "로그인 이동"
+  },
+  {
+    "Key": "id_submit_request",
+    "Value": "요청을 제출?"
+  },
+  {
+    "Key": "id_no_new_notifications",
+    "Value": "당신이 지금 모든 새로운 알림이 없어"
+  },
+  {
+    "Key": "Delete",
+    "Value": "삭제"
+  },
+  {
+    "Key": "New",
+    "Value": "새로운 내용"
+  },
+  {
+    "Key": "id_work_notifications",
+    "Value": "작업 알림"
+  },
+  {
+    "Key": "id_shift_notifications",
+    "Value": "이동 알림"
+  },
+  {
+    "Key": "id_company_id",
+    "Value": "회사 ID"
+  },
+  {
+    "Key": "id_invalid_company_id",
+    "Value": "잘못 된 회사 ID를 입력 하 신"
+  },
+  {
+    "Key": "id_otto_button_try-again",
+    "Value": "다시 시도"
+  },
+  {
+    "Key": "Reset",
+    "Value": "리셋"
+  },
+  {
+    "Key": "Select",
+    "Value": "선택"
+  },
+  {
+    "Key": "field_cannot_be_blank",
+    "Value": "필드 빈 수 없습니다."
+  },
+  {
+    "Key": "id_processing",
+    "Value": "처리"
+  },
+  {
+    "Key": "id_discard_request",
+    "Value": "삭제 요청?"
+  },
+  {
+    "Key": "id_confirm_discard_request",
+    "Value": "진행 중인 편집을 해야합니다. 당신은 그것을 삭제 하 시겠습니까?"
+  },
+  {
+    "Key": "id_new_shift_duration",
+    "Value": "id_new_shift_duration"
+  },
+  {
+    "Key": "day",
+    "Value": "하루"
+  },
+  {
+    "Key": "password_and_confirm_password_must_match",
+    "Value": "암호와 확인 암호는 일치 해야 합니다."
+  },
+  {
+    "Key": "id_incorrect_password",
+    "Value": "잘못 된 암호"
+  },
+  {
+    "Key": "id_password_updated",
+    "Value": "암호 업데이트"
+  },
+  {
+    "Key": "applyButton",
+    "Value": "적용"
+  },
+  {
+    "Key": "id_how_would_you_like_to_edit_your_time?",
+    "Value": "어떻게 시간을 편집 하 시겠습니까?"
+  },
+  {
+    "Key": "id_split_shift_and_move_hours",
+    "Value": "분할 시프트와 이동 시간"
+  },
+  {
+    "Key": "id_just_drop_the_hours",
+    "Value": "그냥 시간을 드롭"
+  },
+  {
+    "Key": "DescName1F7E9252-7347-47DA-9442-BF998D564B2C",
+    "Value": "시간 초과"
+  },
+  {
+    "Key": "id_your_bug_was_submitted_successfully_thanks_for_your_input.",
+    "Value": "버그 제출"
+  },
+  {
+    "Key": "id_error_getting_event_definition",
+    "Value": "오류 발생 지 이벤트 정의 했습니다."
+  },
+  {
+    "Key": "id_error_renewing_account__credentials",
+    "Value": "계정 자격 증명을 갱신 하는 동안 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_error_getting_provider_instance",
+    "Value": "오류는 공급자 인스턴스 발생 했습니다."
+  },
+  {
+    "Key": "id_error_getting_provider_definition",
+    "Value": "오류가 발생 공급자 정의 지."
+  },
+  {
+    "Key": "id_error_getting_google_play_service",
+    "Value": "이 장치는 Google 플레이 서비스에서 지원 되지 않습니다."
+  },
+  {
+    "Key": "id_expecting_sas",
+    "Value": "SaS를 생성 하는 예외: "
+  },
+  {
+    "Key": "id_fill_required_credentials",
+    "Value": "부당한 입력입니다. 모든 필수 필드를 작성 하십시오."
+  },
+  {
+    "Key": "id_error_making_request",
+    "Value": "귀하의 요청을 만드는 동안 오류가 발생 했습니다. 나중에 다시 시도 하십시오."
+  },
+  {
+    "Key": "id_error_getting_system_settings",
+    "Value": "시스템 설정을 수신에 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_error_getting_account_credentials",
+    "Value": "계정 자격 증명을 가져오는 동안 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_error_renew_account_credentials",
+    "Value": "계정 자격 증명을 갱신 하는 동안 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_error_checking_account_credentials",
+    "Value": "당좌 계정 자격 증명 하는 동안 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_shift_already_started",
+    "Value": "변화는 이미 시작"
+  },
+  {
+    "Key": "id_set_email",
+    "Value": "이메일 주소를 입력"
+  },
+  {
+    "Key": "Hours",
+    "Value": "시간"
+  },
+  {
+    "Key": "id_minute",
+    "Value": "분"
+  },
+  {
+    "Key": "None",
+    "Value": "없음"
+  },
+  {
+    "Key": "id_request_details",
+    "Value": "요청 세부 정보"
+  },
+  {
+    "Key": "AM",
+    "Value": "오전"
+  },
+  {
+    "Key": "PM",
+    "Value": "오후"
+  },
+  {
+    "Key": "TermsAndConditions_lblPageTitle",
+    "Value": "약관과 조건"
+  },
+  {
+    "Key": "decline",
+    "Value": "감소"
+  },
+  {
+    "Key": "id_min",
+    "Value": "분"
+  },
+  {
+    "Key": "id_hr",
+    "Value": "시간"
+  },
+  {
+    "Key": "id_split_and_move_hours",
+    "Value": "분할 및 시간 이동"
+  },
+  {
+    "Key": "id_we_are_unable_to_connect_to_the_specified_company_name",
+    "Value": "지정 된 회사 이름에 연결할 수 없습니다."
+  },
+  {
+    "Key": "id_not_authorized",
+    "Value": "당신은 권한이 없습니다. 관리자에 문의 하십시오"
+  },
+  {
+    "Key": "id_token_not_correct",
+    "Value": "토큰이 올바르지 않습니다. 다시 로그인을 하십시오"
+  },
+  {
+    "Key": "id_select_where_to_split",
+    "Value": "분할 위치 선택"
+  },
+  {
+    "Key": "id_select_where_to_move",
+    "Value": "이동 위치 선택"
+  },
+  {
+    "Key": "id_summary",
+    "Value": "요약"
+  },
+  {
+    "Key": "id_request",
+    "Value": "요청"
+  },
+  {
+    "Key": "id_unable_to_fetch_messages",
+    "Value": "메시지를 가져올 수 없습니다."
+  },
+  {
+    "Key": "id_splitting_from",
+    "Value": "분"
+  },
+  {
+    "Key": "id_moving_to",
+    "Value": "이동"
+  },
+  {
+    "Key": "id_time",
+    "Value": "시간"
+  },
+  {
+    "Key": "id_duration",
+    "Value": "기간"
+  },
+  {
+    "Key": "id_placing",
+    "Value": "배치"
+  },
+  {
+    "Key": "id_error_getting_terms_and_condition",
+    "Value": "용어 및 조건에서 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_splitting",
+    "Value": "분"
+  },
+  {
+    "Key": "id_adding",
+    "Value": "추가"
+  },
+  {
+    "Key": "id_start_time_less_end_time",
+    "Value": "시작 시간은 종료 시간 보다 작아야 합니다."
+  },
+  {
+    "Key": "id_editing",
+    "Value": "편집"
+  },
+  {
+    "Key": "id_undo",
+    "Value": "실행 취소"
+  },
+  {
+    "Key": "id_retry",
+    "Value": "다시 시도"
+  },
+  {
+    "Key": "id_you_answered",
+    "Value": "당신은 대답"
+  },
+  {
+    "Key": "id_there_was_an_error_when_sending_your_response",
+    "Value": "당신의 응답을 보낼 때 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_add_shift",
+    "Value": "이동 추가"
+  },
+  {
+    "Key": "id_minimum_shift_length_title",
+    "Value": "최소 이동 길이"
+  },
+  {
+    "Key": "id_minimum_shift_length_message",
+    "Value": "변화는 짧은 수 없습니다. 그러나, 또 다른 하루 전체 교대 이동 하도록 선택할 수 있습니다, 있습니다."
+  },
+  {
+    "Key": "id_midnight_shift_title",
+    "Value": "밤 교대"
+  },
+  {
+    "Key": "id_midnight_shift_message",
+    "Value": "자정 교대를 편집할 수 없습니다."
+  },
+  {
+    "Key": "id_set_to_minimum",
+    "Value": "최소 설정"
+  },
+  {
+    "Key": "id_select_entire_shift",
+    "Value": "전체 교체를 선택"
+  },
+  {
+    "Key": "id_duration_must_be_between_1_and_24_hours",
+    "Value": "기간 1 시간에서 24 시간 사이 여야 합니다."
+  },
+  {
+    "Key": "id_error_occour_while_refreshing_page",
+    "Value": "페이지를 새로 고치는 동안 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_error_in_receiving_messege",
+    "Value": "메시지 수신에 오류가 발생 했습니다."
+  },
+  {
+    "Key": "id_invalid_username_or_password",
+    "Value": "잘못 된 사용자 이름 또는 암호입니다."
+  },
+  {
+    "Key": "id_unable_to_authenticate_user",
+    "Value": "사용자를 인증할 수 없습니다."
+  },
+  {
+    "Key": "Running_Late",
+    "Value": "늦게 실행"
+  },
+  {
+    "Key": "Out_Sick",
+    "Value": "아픈 개"
+  },
+  {
+    "Key": "Request_VTO",
+    "Value": "요청 VTO"
+  },
+  {
+    "Key": "Request_VOT",
+    "Value": "VOT 요청"
+  },
+  {
+    "Key": "Message_to_Supervisor",
+    "Value": "감독자에 게 메시지"
+  },
+  {
+    "Key": "Note_to_Manager",
+    "Value": "참고 관리자에 게"
+  },
+  {
+    "Key": "User_List",
+    "Value": "사용자 목록"
+  },
+  {
+    "Key": "change_to_different_time",
+    "Value": "다른 시간으로 변경"
+  },
+  {
+    "Key": "id_are_you_sure_want_to_delete_message",
+    "Value": "당신은이 메시지를 삭제 하 시겠습니까?"
+  },
+  {
+    "Key": "Minutes_Running_Late",
+    "Value": "늦게 실행 하는 분"
+  },
+  {
+    "Key": "id_request_not_sent",
+    "Value": "요청 전송 되지"
+  }
+]

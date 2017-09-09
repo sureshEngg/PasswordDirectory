@@ -1,0 +1,1102 @@
+[
+  {
+    "Key": "id_onboarding_text_1",
+    "Value": "Когда вы задумываетесь о вашем рабочем графике"
+  },
+  {
+    "Key": "id_onboarding_text_2",
+    "Value": "Или когда в жизни происходят разные события"
+  },
+  {
+    "Key": "id_onboarding_text_3",
+    "Value": "Когда вы плохо себя чувствуете"
+  },
+  {
+    "Key": "id_onboarding_text_4",
+    "Value": "Или когда пришло время побаловать себя"
+  },
+  {
+    "Key": "id_next",
+    "Value": "Далее"
+  },
+  {
+    "Key": "id_done",
+    "Value": "Выполнено"
+  },
+  {
+    "Key": "id_skip",
+    "Value": "Пропустить"
+  },
+  {
+    "Key": "Username",
+    "Value": "Имя пользователя"
+  },
+  {
+    "Key": "Password",
+    "Value": "Пароль"
+  },
+  {
+    "Key": "id_company",
+    "Value": "Компания"
+  },
+  {
+    "Key": "Login",
+    "Value": "Логин"
+  },
+  {
+    "Key": "id_use_touch_id",
+    "Value": "Использовать вход по отпечатку пальца Touch ID"
+  },
+  {
+    "Key": "Error",
+    "Value": "Ошибка"
+  },
+  {
+    "Key": "id_try_again",
+    "Value": "Повторить"
+  },
+  {
+    "Key": "id_okay",
+    "Value": "Хорошо"
+  },
+  {
+    "Key": "Cancel",
+    "Value": "Отмена"
+  },
+  {
+    "Key": "id_dismiss",
+    "Value": "Игнорировать"
+  },
+  {
+    "Key": "SystemProfileForm_lblSettings",
+    "Value": "Параметры"
+  },
+  {
+    "Key": "id_missing_information",
+    "Value": "Не хватает данных"
+  },
+  {
+    "Key": "id_some_of_the_required_fields_are_empty",
+    "Value": "Некоторые из обязательных полей пусты"
+  },
+  {
+    "Key": "id_incorrect_username_password",
+    "Value": "Имя пользователя / пароль комбинации"
+  },
+  {
+    "Key": "id_you_have_entered_an_invalid_company_ID",
+    "Value": "Вы ввели недопустимый идентификатор компании"
+  },
+  {
+    "Key": "id_please_accept_terms_and_conditions_to_login",
+    "Value": "Для входа в систему примите условия и положения"
+  },
+  {
+    "Key": "id_touch_id",
+    "Value": "TouchID"
+  },
+  {
+    "Key": "id_please_authenticate_using_TouchID",
+    "Value": "Пожалуйста, авторизуйтесь с помощью функции входа по отпечатку пальца TouchID."
+  },
+  {
+    "Key": "id_The_original_user_of_this_app_must_login_and_disable_TouchID_before_you_can_login_on_this_device",
+    "Value": "Прежде чем вы сможете войти в систему на этом устройстве, действительный пользователь этого приложения должен войти в систему и отключить TouchID"
+  },
+  {
+    "Key": "id_this_device_does_not_support_touch_id",
+    "Value": "Это устройство не поддерживает вход по отпечатку пальца Touch ID"
+  },
+  {
+    "Key": "id_please_enable_touch_id_on_your_device",
+    "Value": "Включите функцию Touch ID на вашем устройстве"
+  },
+  {
+    "Key": "id_no_internet_connection",
+    "Value": "Нет соединения с интернетом"
+  },
+  {
+    "Key": "id_mobile_network_issue",
+    "Value": "Проблема с сетью"
+  },
+  {
+    "Key": "id_it_looks_like_there_are_some_issues_connecting_with_your_network",
+    "Value": "Возникли проблемы при подключении к вашей сети. Проверьте ваше подключение и повторите попытку."
+  },
+  {
+    "Key": "id_confirm_password",
+    "Value": "Подтвердите новый пароль"
+  },
+  {
+    "Key": "New_Password",
+    "Value": "Новый Пароль"
+  },
+  {
+    "Key": "Mobile_Phone",
+    "Value": "Мобильный телефон"
+  },
+  {
+    "Key": "sms_text",
+    "Value": "Текст SMS"
+  },
+  {
+    "Key": "Mon",
+    "Value": "Мон"
+  },
+  {
+    "Key": "Tue",
+    "Value": "Вт"
+  },
+  {
+    "Key": "Wed",
+    "Value": "СР"
+  },
+  {
+    "Key": "Thu",
+    "Value": "Чт"
+  },
+  {
+    "Key": "Fri",
+    "Value": "Пт"
+  },
+  {
+    "Key": "Sat",
+    "Value": "Сб"
+  },
+  {
+    "Key": "Sun",
+    "Value": "вс"
+  },
+  {
+    "Key": "Requests",
+    "Value": "Запросы"
+  },
+  {
+    "Key": "Preferences",
+    "Value": "Предпочтения"
+  },
+  {
+    "Key": "Change_Password",
+    "Value": "Смените пароль"
+  },
+  {
+    "Key": "Submit",
+    "Value": "Отправить"
+  },
+  {
+    "Key": "Name",
+    "Value": "Имя"
+  },
+  {
+    "Key": "id_log_out",
+    "Value": "Выйти из системы"
+  },
+  {
+    "Key": "Start_Time",
+    "Value": "Время начала"
+  },
+  {
+    "Key": "End_Time",
+    "Value": "Время окончания"
+  },
+  {
+    "Key": "id_schedule",
+    "Value": "Расписание"
+  },
+  {
+    "Key": "Login_Id",
+    "Value": "Идентификатор входа"
+  },
+  {
+    "Key": "id_current_password",
+    "Value": "Текущий пароль"
+  },
+  {
+    "Key": "Today",
+    "Value": "Сегодня"
+  },
+  {
+    "Key": "id_january",
+    "Value": "Январь"
+  },
+  {
+    "Key": "id_february",
+    "Value": "Февраль"
+  },
+  {
+    "Key": "id_march",
+    "Value": "Март"
+  },
+  {
+    "Key": "id_april",
+    "Value": "Апрель"
+  },
+  {
+    "Key": "id_may",
+    "Value": "Мая"
+  },
+  {
+    "Key": "id_june",
+    "Value": "Июнь"
+  },
+  {
+    "Key": "id_july",
+    "Value": "Июль"
+  },
+  {
+    "Key": "id_august",
+    "Value": "Август"
+  },
+  {
+    "Key": "id_september",
+    "Value": "Сентябрь"
+  },
+  {
+    "Key": "id_october",
+    "Value": "Октябрь"
+  },
+  {
+    "Key": "id_november",
+    "Value": "Ноябрь"
+  },
+  {
+    "Key": "id_december",
+    "Value": "Декабрь"
+  },
+  {
+    "Key": "Sunday",
+    "Value": "Воскресенье"
+  },
+  {
+    "Key": "Monday",
+    "Value": "Понедельник"
+  },
+  {
+    "Key": "Tuesday",
+    "Value": "Вторник"
+  },
+  {
+    "Key": "Wednesday",
+    "Value": "Среда"
+  },
+  {
+    "Key": "Thursday",
+    "Value": "Четверг"
+  },
+  {
+    "Key": "Friday",
+    "Value": "Пятница"
+  },
+  {
+    "Key": "Saturday",
+    "Value": "Суббота"
+  },
+  {
+    "Key": "email_address",
+    "Value": "Адрес электронной почты"
+  },
+  {
+    "Key": "id_enter_email_address",
+    "Value": "Введите адрес электронной почты"
+  },
+  {
+    "Key": "email",
+    "Value": "Электронная почта"
+  },
+  {
+    "Key": "Save",
+    "Value": "Сохранить"
+  },
+  {
+    "Key": "id_enter_phone_number",
+    "Value": "Введите номер телефона"
+  },
+  {
+    "Key": "id_mobile_phone_number",
+    "Value": "Номер мобильного телефона"
+  },
+  {
+    "Key": "id_invalid_email_address",
+    "Value": "Недействительный адрес электронной почты"
+  },
+  {
+    "Key": "id_invalid_phone_number",
+    "Value": "Недействительный номер телефона"
+  },
+  {
+    "Key": "id_make_more_changes",
+    "Value": "Внести больше изменений"
+  },
+  {
+    "Key": "id_go_to_preference",
+    "Value": "Перейти к Настройкам"
+  },
+  {
+    "Key": "id_work_preferences_saved",
+    "Value": "Рабочие настройки сохранены"
+  },
+  {
+    "Key": "id_provider_is_not_available",
+    "Value": "Провайдер недоступен"
+  },
+  {
+    "Key": "id_you_do_not_have_permission_to_view_requests",
+    "Value": "У вас нет разрешения на просмотр запросов"
+  },
+  {
+    "Key": "id_wrong_format",
+    "Value": "Неверный формат"
+  },
+  {
+    "Key": "id_data_is_in_wrong_format",
+    "Value": "Данные в неправильном формате"
+  },
+  {
+    "Key": "id_allow_App_Notifications",
+    "Value": "Разрешить оповещения от приложений"
+  },
+  {
+    "Key": "id_notification_schedule",
+    "Value": "Расписание оповещений"
+  },
+  {
+    "Key": "id_work_preferences",
+    "Value": "Рабочие предпочтения "
+  },
+  {
+    "Key": "id_use_touchid_to_login",
+    "Value": "Использовать вход по отпечатку пальца TouchID для входа в систему"
+  },
+  {
+    "Key": "id_you_will_only_receive_notifications_of_the_types_that_you_want_on_the_days_that_you_choose",
+    "Value": "Вы будете получать уведомления о желаемых типах в те дни, которые вы выберете"
+  },
+  {
+    "Key": "id_please_enter_a_valid_email_address_before_enabling",
+    "Value": "Введите действительный адрес электронной почты перед включением"
+  },
+  {
+    "Key": "id_Please_enter_a_valid_mobile_phone_number_before_enabling",
+    "Value": "Введите действительный номер мобильного телефона перед включением"
+  },
+  {
+    "Key": "id_success",
+    "Value": "Попытка успешная"
+  },
+  {
+    "Key": "id_Your_request_has_been_sent_successfully",
+    "Value": "Ваш запрос успешно отправлен."
+  },
+  {
+    "Key": "id_You_have_an_edit_in_progress.Are_you_sure_you_want_to_discard_it",
+    "Value": "Вы ввели изменение, которое в настоящий момент обрабатывается. Вы уверены, что хотите отменить его?"
+  },
+  {
+    "Key": "id_Yes_Discard",
+    "Value": "Да, Отменить"
+  },
+  {
+    "Key": "id_Keep_Editing",
+    "Value": "Продолжить редактирование"
+  },
+  {
+    "Key": "id_Failed",
+    "Value": "Ошибка"
+  },
+  {
+    "Key": "id_Cannot_generate_event_at_this_moment",
+    "Value": "Невозможно создать событие в данный момент"
+  },
+  {
+    "Key": "id_Your_request_was_successfully_submitted._You_will_receive_a_confirmation_message_if_it_is_approved",
+    "Value": "Ваш запрос успешно отправлен. Вы получите подтверждающее сообщение, если он будет одобрен."
+  },
+  {
+    "Key": "id_Go_to_Schedule",
+    "Value": "Перейти к Расписанию"
+  },
+  {
+    "Key": "id_shift_has_already_started",
+    "Value": "Смена уже началась"
+  },
+  {
+    "Key": "minutes",
+    "Value": "минут"
+  },
+  {
+    "Key": "id_Work",
+    "Value": "Работа"
+  },
+  {
+    "Key": "id_session_timeOut",
+    "Value": "Время ожидания сеанса"
+  },
+  {
+    "Key": "id_your_session_has_been_timed_out.you_have_to_login_again",
+    "Value": "Ваш сеанс завершился. Вам нужно снова войти в систему."
+  },
+  {
+    "Key": "Search",
+    "Value": "Поиск"
+  },
+  {
+    "Key": "id_old_start_time",
+    "Value": "Старое время начала"
+  },
+  {
+    "Key": "id_old_end_time",
+    "Value": "Старое время завершения"
+  },
+  {
+    "Key": "id_reset",
+    "Value": "Сброс"
+  },
+  {
+    "Key": "id_work_same_number_of_hours",
+    "Value": "Работать одинаковое количество часов"
+  },
+  {
+    "Key": "id_your_info",
+    "Value": "Ваши данные"
+  },
+  {
+    "Key": "id_notifications",
+    "Value": "Оповещения"
+  },
+  {
+    "Key": "id_security",
+    "Value": "Безопасность"
+  },
+  {
+    "Key": "id_more",
+    "Value": "Больше"
+  },
+  {
+    "Key": "id_enable_analytics_collection",
+    "Value": "Включить сбор данных Google Analytics"
+  },
+  {
+    "Key": "id_this_data_will_be_anonomously_shared_with_developers_to_improve_your_experience",
+    "Value": "Эти данные будут совместно использоваться разработчиками в анонимном режиме для улучшения пользовательского интерфейса"
+  },
+  {
+    "Key": "id_Webhelp",
+    "Value": "Онлайн-помощь"
+  },
+  {
+    "Key": "id_Submit_a_Bug",
+    "Value": "Отправить сообщение об ошибке"
+  },
+  {
+    "Key": "id_User_Voice",
+    "Value": "Голос пользователя"
+  },
+  {
+    "Key": "id_the_current_password_that_you_entered_is_incorrect",
+    "Value": "Введенный вами пароль неверный"
+  },
+  {
+    "Key": "id_the_passwords_that_you_entered_do_not_match",
+    "Value": "Введенные вами пароли не совпадают"
+  },
+  {
+    "Key": "id_password_reset_failed_which_does_not_meet_requirement",
+    "Value": "Ошибка сброса пароля из-за несоответствия требованиям"
+  },
+  {
+    "Key": "id_apply_to_multiple_day",
+    "Value": "Применить к нескольким дням"
+  },
+  {
+    "Key": "Hour",
+    "Value": "час"
+  },
+  {
+    "Key": "id_notification_preferences_saved",
+    "Value": "Уведомления о настройках сохранены"
+  },
+  {
+    "Key": "id_notification_preferences_was_successfully_saved",
+    "Value": "Оповещения о настройках успешно сохранены"
+  },
+  {
+    "Key": "id_notification_preference",
+    "Value": "Предпочтения об уведомлениях"
+  },
+  {
+    "Key": "Back",
+    "Value": "Назад"
+  },
+  {
+    "Key": "id_date_time",
+    "Value": "Дата/время"
+  },
+  {
+    "Key": "id_date",
+    "Value": "Дата"
+  },
+  {
+    "Key": "id_enter_text",
+    "Value": "Введите текст"
+  },
+  {
+    "Key": "id_enter_number",
+    "Value": "Введите номер"
+  },
+  {
+    "Key": "Yes",
+    "Value": "Да"
+  },
+  {
+    "Key": "No",
+    "Value": "Нет"
+  },
+  {
+    "Key": "id_would_you_like_to_use_TouchID_to_log_into_this_app_in_the_future",
+    "Value": "Вы хотите использовать функцию входа по отпечатку пальца TouchID для входа в это приложение в будущем?"
+  },
+  {
+    "Key": "Edit",
+    "Value": "Редактировать"
+  },
+  {
+    "Key": "Shift",
+    "Value": "Сдвиг"
+  },
+  {
+    "Key": "id_edit_start_time",
+    "Value": "Изменить время начала"
+  },
+  {
+    "Key": "id_edit_end_time",
+    "Value": "Изменить время завершения"
+  },
+  {
+    "Key": "id_available_for_work",
+    "Value": "Доступен для работы"
+  },
+  {
+    "Key": "id_allow_notifications",
+    "Value": "Разрешить оповещения"
+  },
+  {
+    "Key": "id_work_offers",
+    "Value": "Предложения работы"
+  },
+  {
+    "Key": "id_before_shift",
+    "Value": "Перед сменой"
+  },
+  {
+    "Key": "id_time_before_shift",
+    "Value": "Время до смены"
+  },
+  {
+    "Key": "id_shift_duration",
+    "Value": "Продолжительность смены"
+  },
+  {
+    "Key": "id_request_change",
+    "Value": "Modification de requête"
+  },
+  {
+    "Key": "id_alerts",
+    "Value": "Предупреждения"
+  },
+  {
+    "Key": "id_accept",
+    "Value": "Принять"
+  },
+  {
+    "Key": "id_your_password_has_been_reset_successfully",
+    "Value": "Ваш пароль успешно переустановлен."
+  },
+  {
+    "Key": "id_work_preferences_was_successfully_saved",
+    "Value": "Рабочие предпочтения были успешно сохранены."
+  },
+  {
+    "Key": "id_request_sent",
+    "Value": "Запрос отправлен"
+  },
+  {
+    "Key": "Message",
+    "Value": "Сообщение"
+  },
+  {
+    "Key": "id_archive",
+    "Value": "Мой архив"
+  },
+  {
+    "Key": "id_otto_provider_is_not_available",
+    "Value": "Провайдер Otto недоступен"
+  },
+  {
+    "Key": "id_terms_and_conditions",
+    "Value": "Условия и положения"
+  },
+  {
+    "Key": "id_current",
+    "Value": "Текущий"
+  },
+  {
+    "Key": "id_settings",
+    "Value": "Параметры"
+  },
+  {
+    "Key": "id_confirm_response",
+    "Value": "Подтвердить ответ"
+  },
+  {
+    "Key": "id_delete_message",
+    "Value": "Удалить сообщение"
+  },
+  {
+    "Key": "id_delete",
+    "Value": "Удалить"
+  },
+  {
+    "Key": "id_push_notifications",
+    "Value": "Рush-уведомления"
+  },
+  {
+    "Key": "id_enter_company_name",
+    "Value": "Введите название вашей компании"
+  },
+  {
+    "Key": "id_please_wait",
+    "Value": "Пожалуйста, подождите"
+  },
+  {
+    "Key": "id_loading",
+    "Value": "Загрузка"
+  },
+  {
+    "Key": "Week",
+    "Value": "Неделя"
+  },
+  {
+    "Key": "id_sms",
+    "Value": "Текстовые сообщения"
+  },
+  {
+    "Key": "id_yesterday",
+    "Value": "Вчера"
+  },
+  {
+    "Key": "id_older",
+    "Value": "Более старые"
+  },
+  {
+    "Key": "id_yes_submit",
+    "Value": "Да, Отправить"
+  },
+  {
+    "Key": "id_new_request",
+    "Value": "Новый запрос"
+  },
+  {
+    "Key": "id_available_for_overtime",
+    "Value": "Доступен для сверхурочной работы"
+  },
+  {
+    "Key": "id_update_password",
+    "Value": "Обновить пароль"
+  },
+  {
+    "Key": "id_logged_out",
+    "Value": "Вышел из системы"
+  },
+  {
+    "Key": "id_logged_out_due_to_inactivity",
+    "Value": "Вы вышли из системы по причине бездействия. Пожалуйста, войдите в систему снова."
+  },
+  {
+    "Key": "id_go_to_login",
+    "Value": "Перейти к команде Вход"
+  },
+  {
+    "Key": "id_submit_request",
+    "Value": "Отправить запрос?"
+  },
+  {
+    "Key": "id_no_new_notifications",
+    "Value": "У вас сейчас нет новых уведомлений"
+  },
+  {
+    "Key": "Delete",
+    "Value": "Удалить"
+  },
+  {
+    "Key": "New",
+    "Value": "Новые "
+  },
+  {
+    "Key": "id_work_notifications",
+    "Value": "Рабочие оповещения "
+  },
+  {
+    "Key": "id_shift_notifications",
+    "Value": "Оповещения о сменах"
+  },
+  {
+    "Key": "id_company_id",
+    "Value": "Идентификатор компании"
+  },
+  {
+    "Key": "id_invalid_company_id",
+    "Value": "Вы ввели неверный идентификатор компании."
+  },
+  {
+    "Key": "id_otto_button_try-again",
+    "Value": "Повторить"
+  },
+  {
+    "Key": "Reset",
+    "Value": "Перезагрузка"
+  },
+  {
+    "Key": "Select",
+    "Value": "Выберите"
+  },
+  {
+    "Key": "field_cannot_be_blank",
+    "Value": "Поле не может быть пустым."
+  },
+  {
+    "Key": "id_processing",
+    "Value": "Обработка"
+  },
+  {
+    "Key": "id_discard_request",
+    "Value": "Отменить запрос?"
+  },
+  {
+    "Key": "id_confirm_discard_request",
+    "Value": "Вы ввели изменение, которое в настоящий момент обрабатывается. Вы уверены, что хотите отменить его?"
+  },
+  {
+    "Key": "id_new_shift_duration",
+    "Value": "id_new_shift_duration"
+  },
+  {
+    "Key": "day",
+    "Value": "День"
+  },
+  {
+    "Key": "password_and_confirm_password_must_match",
+    "Value": "Пароль и подтверждение пароля должны совпадать."
+  },
+  {
+    "Key": "id_incorrect_password",
+    "Value": "Неверный пароль"
+  },
+  {
+    "Key": "id_password_updated",
+    "Value": "Пароль успешно обновлен."
+  },
+  {
+    "Key": "applyButton",
+    "Value": "Применить"
+  },
+  {
+    "Key": "id_how_would_you_like_to_edit_your_time?",
+    "Value": "Как бы вы хотели отредактировать своё время?"
+  },
+  {
+    "Key": "id_split_shift_and_move_hours",
+    "Value": "Разбить смену и переместить часы"
+  },
+  {
+    "Key": "id_just_drop_the_hours",
+    "Value": "Просто убрать часы"
+  },
+  {
+    "Key": "DescName1F7E9252-7347-47DA-9442-BF998D564B2C",
+    "Value": "*/3RDPARTYREQ/* - TIME OUT"
+  },
+  {
+    "Key": "id_your_bug_was_submitted_successfully_thanks_for_your_input.",
+    "Value": "Ваша ошибка была успешно отправлена. Спасибо вам за информацию."
+  },
+  {
+    "Key": "id_error_getting_event_definition",
+    "Value": "Произошла ошибка при получении определений событий."
+  },
+  {
+    "Key": "id_error_renewing_account__credentials",
+    "Value": "*/3RDPARTYREQ/* - An error occurred while renewing account credentials."
+  },
+  {
+    "Key": "id_error_getting_provider_instance",
+    "Value": "Произошла ошибка при получении экземпляра провайдера."
+  },
+  {
+    "Key": "id_error_getting_provider_definition",
+    "Value": "Произошла ошибка при определении провайдера."
+  },
+  {
+    "Key": "id_error_getting_google_play_service",
+    "Value": "Служба Google Play не поддерживает данное устройство."
+  },
+  {
+    "Key": "id_expecting_sas",
+    "Value": "Исключение  - Создание SaS: "
+  },
+  {
+    "Key": "id_fill_required_credentials",
+    "Value": "Неправильный ввод. Пожалуйста, заполните все обязательные поля."
+  },
+  {
+    "Key": "id_error_making_request",
+    "Value": "При создании вашего запроса произошла ошибка. Пожалуйста, повторите попытку позже."
+  },
+  {
+    "Key": "id_error_getting_system_settings",
+    "Value": "Ошибка при получении настроек системы."
+  },
+  {
+    "Key": "id_error_getting_account_credentials",
+    "Value": "При получении учётных данных  произошла ошибка."
+  },
+  {
+    "Key": "id_error_renew_account_credentials",
+    "Value": "При обновлении учётных данных  произошла ошибка."
+  },
+  {
+    "Key": "id_error_checking_account_credentials",
+    "Value": "При проверке учётных данных произошла ошибка."
+  },
+  {
+    "Key": "id_shift_already_started",
+    "Value": "Смена уже началась"
+  },
+  {
+    "Key": "id_set_email",
+    "Value": "Введите адрес электронной почты"
+  },
+  {
+    "Key": "Hours",
+    "Value": "Часы"
+  },
+  {
+    "Key": "id_minute",
+    "Value": "Минут"
+  },
+  {
+    "Key": "None",
+    "Value": "Нет"
+  },
+  {
+    "Key": "id_request_details",
+    "Value": "Детали запроса"
+  },
+  {
+    "Key": "AM",
+    "Value": "До полудня"
+  },
+  {
+    "Key": "PM",
+    "Value": "После полудня"
+  },
+  {
+    "Key": "TermsAndConditions_lblPageTitle",
+    "Value": "Условия и положения"
+  },
+  {
+    "Key": "decline",
+    "Value": "Отклонить "
+  },
+  {
+    "Key": "id_min",
+    "Value": "*/3RDPARTYREQ/* - Min"
+  },
+  {
+    "Key": "id_hr",
+    "Value": "Hr (Час)"
+  },
+  {
+    "Key": "id_split_and_move_hours",
+    "Value": "Разбить и переместить часы"
+  },
+  {
+    "Key": "id_we_are_unable_to_connect_to_the_specified_company_name",
+    "Value": "*/3RDPARTYREQ/* - We're unable to connect to the specified company name"
+  },
+  {
+    "Key": "id_not_authorized",
+    "Value": "*/3RDPARTYREQ/* - You are not authorized. Please contact admin."
+  },
+  {
+    "Key": "id_token_not_correct",
+    "Value": "*/3RDPARTYREQ/* - Token is not correct. Please login again"
+  },
+  {
+    "Key": "id_select_where_to_split",
+    "Value": "*/3RDPARTYREQ/* - Select where to split"
+  },
+  {
+    "Key": "id_select_where_to_move",
+    "Value": "*/3RDPARTYREQ/* - Select where to move"
+  },
+  {
+    "Key": "id_summary",
+    "Value": "*/3RDPARTYREQ/* - SUMMARY"
+  },
+  {
+    "Key": "id_request",
+    "Value": "*/3RDPARTYREQ/* - REQUEST"
+  },
+  {
+    "Key": "id_unable_to_fetch_messages",
+    "Value": "*/3RDPARTYREQ/* - Unable to fetch messages"
+  },
+  {
+    "Key": "id_splitting_from",
+    "Value": "*/3RDPARTYREQ/* - Splitting From"
+  },
+  {
+    "Key": "id_moving_to",
+    "Value": "*/3RDPARTYREQ/* - Moving To"
+  },
+  {
+    "Key": "id_time",
+    "Value": "*/3RDPARTYREQ/* - Time"
+  },
+  {
+    "Key": "id_duration",
+    "Value": "*/3RDPARTYREQ/* - Duration"
+  },
+  {
+    "Key": "id_placing",
+    "Value": "*/3RDPARTYREQ/* - Placing"
+  },
+  {
+    "Key": "id_error_getting_terms_and_condition",
+    "Value": "*/3RDPARTYREQ/* - Error in receiving terms and condition."
+  },
+  {
+    "Key": "id_splitting",
+    "Value": "*/3RDPARTYREQ/* - Splitting"
+  },
+  {
+    "Key": "id_adding",
+    "Value": "*/3RDPARTYREQ/* - Adding"
+  },
+  {
+    "Key": "id_start_time_less_end_time",
+    "Value": "*/3RDPARTYREQ/* - Start time should be less than end time."
+  },
+  {
+    "Key": "id_editing",
+    "Value": "*/3RDPARTYREQ/* - Editing"
+  },
+  {
+    "Key": "id_undo",
+    "Value": "*/3RDPARTYREQ/* - Undo"
+  },
+  {
+    "Key": "id_retry",
+    "Value": "*/3RDPARTYREQ/* - Retry"
+  },
+  {
+    "Key": "id_you_answered",
+    "Value": "*/3RDPARTYREQ/* - You answered"
+  },
+  {
+    "Key": "id_there_was_an_error_when_sending_your_response",
+    "Value": "*/3RDPARTYREQ/* - There was an error when sending your response."
+  },
+  {
+    "Key": "id_add_shift",
+    "Value": "*/3RDPARTYREQ/* - Add Shift"
+  },
+  {
+    "Key": "id_minimum_shift_length_title",
+    "Value": "*/3RDPARTYREQ/* - Minimum Shift Length"
+  },
+  {
+    "Key": "id_minimum_shift_length_message",
+    "Value": "*/3RDPARTYREQ/* - A shift cannot be that short. You can, however, choose to move the entire shift to another day."
+  },
+  {
+    "Key": "id_midnight_shift_title",
+    "Value": "*/3RDPARTYREQ/* - Midnight shift"
+  },
+  {
+    "Key": "id_midnight_shift_message",
+    "Value": "*/3RDPARTYREQ/* - You are not allowed to edit midnight shift."
+  },
+  {
+    "Key": "id_set_to_minimum",
+    "Value": "*/3RDPARTYREQ/* - SET TO MINIMUM"
+  },
+  {
+    "Key": "id_select_entire_shift",
+    "Value": "*/3RDPARTYREQ/* - SELECT ENTIRE SHIFT"
+  },
+  {
+    "Key": "id_duration_must_be_between_1_and_24_hours",
+    "Value": "*/3RDPARTYREQ/* - Duration must be between 1 and 24 hours"
+  },
+  {
+    "Key": "id_error_occour_while_refreshing_page",
+    "Value": "*/3RDPARTYREQ/* - An error occurred while refreshing the page."
+  },
+  {
+    "Key": "id_error_in_receiving_messege",
+    "Value": "*/3RDPARTYREQ/* - Error in receiving message."
+  },
+  {
+    "Key": "id_invalid_username_or_password",
+    "Value": "*/3RDPARTYREQ/* - Invalid username or password."
+  },
+  {
+    "Key": "id_unable_to_authenticate_user",
+    "Value": "*/3RDPARTYREQ/* - Unable to authenticate user."
+  },
+  {
+    "Key": "Running_Late",
+    "Value": "*/3RDPARTYREQ/* - Running Late"
+  },
+  {
+    "Key": "Out_Sick",
+    "Value": "*/3RDPARTYREQ/* - Out Sick"
+  },
+  {
+    "Key": "Request_VTO",
+    "Value": "*/3RDPARTYREQ/* - Request VTO"
+  },
+  {
+    "Key": "Request_VOT",
+    "Value": "*/3RDPARTYREQ/* - Request VOT"
+  },
+  {
+    "Key": "Message_to_Supervisor",
+    "Value": "*/3RDPARTYREQ/* - Message to Supervisor"
+  },
+  {
+    "Key": "Note_to_Manager",
+    "Value": "*/3RDPARTYREQ/* - Note to Manager"
+  },
+  {
+    "Key": "User_List",
+    "Value": "*/3RDPARTYREQ/* - User List"
+  },
+  {
+    "Key": "change_to_different_time",
+    "Value": "*/3RDPARTYREQ/* - Change to a different time"
+  },
+  {
+    "Key": "id_are_you_sure_want_to_delete_message",
+    "Value": "*/3RDPARTYREQ/* - Are you sure you want to delete this message?"
+  },
+  {
+    "Key": "Minutes_Running_Late",
+    "Value": "*/3RDPARTYREQ/* - Minutes Running Late"
+  },
+  {
+    "Key": "id_request_not_sent",
+    "Value": "*/3RDPARTYREQ/* - Request not sent"
+  }
+]
