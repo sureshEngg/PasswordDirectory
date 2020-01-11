@@ -1,12 +1,9 @@
 add unit :
 
-interrrestial:
-
-Ad unit name: SYP_interrestial
-Ad unit ID: ca-app-pub-9989774996291836/6934257173 
+<string name="unit_id">ca-app-pub-3132913470859365~9553375407</string>
+<string name="ad_unit_id">ca-app-pub-3132913470859365/1674885386</string>
 
 
-banner:
+Aias:
 
-Ad unit name: SYP_banner
-Ad unit ID: ca-app-pub-9989774996291836/7836275304 
+key0
