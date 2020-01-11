@@ -43,6 +43,8 @@ import com.google.android.gms.ads.InterstitialAd;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
 
@@ -467,10 +469,21 @@ public class HomeActivity extends AppCompatActivity implements EditPasswordDetai
             try {
                 //It retrieves the latest version by scraping the content of current version from play store at runtime
                 String urlOfAppFromPlayStore = "https://play.google.com/store/apps/details?id=suresh.syp.saveurpasswa";
-                Document doc = Jsoup.connect(urlOfAppFromPlayStore).get();
-                if (doc != null) {
-                    latestVersion = doc.getElementsByAttributeValue
-                            ("itemprop", "softwareVersion").first().text();
+                Document document = Jsoup.connect(urlOfAppFromPlayStore)
+                        .timeout(30000)
+                        .userAgent("Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; rv1.8.1.6) Gecko/20070725 Firefox/2.0.0.6")
+                        .referrer("http://www.google.com")
+                        .get();
+                if (document != null) {
+                    Elements element = document.getElementsContainingOwnText("Current Version");
+                    for (Element ele : element) {
+                        if (ele.siblingElements() != null) {
+                            Elements sibElemets = ele.siblingElements();
+                            for (Element sibElemet : sibElemets) {
+                                latestVersion = sibElemet.text();
+                            }
+                        }
+                    }
                 }
             } catch (Exception e) {
                 e.printStackTrace();

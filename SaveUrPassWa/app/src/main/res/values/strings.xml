@@ -19,8 +19,8 @@
     <string name="view_your_passwords">Enter Pin to view your passwords</string>
     <string name="btn_add">ADD</string>
     <string name="total_passwa">Total:</string>
-    <string name="ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
-    <!--AdMob Testing-> ca-app-pub-3940256099942544/1033173712-->
+    <string name="unit_id">ca-app-pub-3132913470859365~9553375407</string>
+    <string name="ad_unit_id">ca-app-pub-3132913470859365/1674885386</string>
 
     <!--keyboard numbers-->
     <string name="number_zero">0</string>
@@ -40,8 +40,4 @@
     <string name="message_reenter_pin">Re-Enter the Pin</string>
     <string name="message_one_time_process">Re-Enter your Pin. This is a one time process. So note your pin for future user.</string>
 
-
-    <!--New AdMOb -->
-    <!--AdMob Production-> ca-app-pub-9989774996291836/6934257173-->
-    <!--ID ca-app-pub-8174138486024352/3354276256 -->
 </resources>
